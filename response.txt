@@ -1,0 +1,14 @@
+The concept of string slicing is covered in **Video 12 – “Strings Slicing and Operations on Strings in Python.”**  
+You’ll find the explanation right at the beginning of the video:
+
+- **Start:** 3.2 s – 6.2 s  
+  *(“And today's topic is how to do string slicing”)*
+
+The instructor then walks through examples and deeper details at a few other points:
+
+- 16.5 s – 18.9 s  
+- 46.0 s – 50.0 s  
+- 336.0 s – 338.0 s  
+- 548.0 s – 550.0 s  
+
+To learn slicing, jump to **Video 12** and play from the 3.2‑second mark. It will give you a concise overview, and the subsequent timestamps provide additional practice and clarification. Happy learning!
