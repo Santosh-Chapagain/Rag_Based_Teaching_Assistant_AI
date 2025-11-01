@@ -1,0 +1,2315 @@
+{
+    "chunks": [
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Oh, what a thing, friends!"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 2.0,
+            "end": 6.8,
+            "text": " Even in day 9, 100 days of code consistency 1 system, yes?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 6.8,
+            "end": 9.6,
+            "text": " Today, I will tell you about typecasting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 9.6,
+            "end": 13.1,
+            "text": " This term sounds scary to hear, typecasting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 13.1,
+            "end": 15.5,
+            "text": " But I'll tell you that it's a very simple thing."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 15.5,
+            "end": 19.6,
+            "text": " Look, we made a string variable, and it has 27 written in it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 19.6,
+            "end": 22.3,
+            "text": " We enclosed it in double quotes because it was a string,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 22.3,
+            "end": 24.5,
+            "text": " so we put 27 in double quotes."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 24.5,
+            "end": 27.900000000000002,
+            "text": " But if we add it to 3, then 30 won't come"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 27.9,
+            "end": 30.9,
+            "text": " because it's a 27 string and 3 is an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 30.9,
+            "end": 32.9,
+            "text": " So if we want to tell Python that"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 32.9,
+            "end": 36.2,
+            "text": " the thing written in double quotes is a valid number,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 36.2,
+            "end": 40.4,
+            "text": " then we can typecast it to an integer by using int function."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 40.4,
+            "end": 42.3,
+            "text": " How does all this work?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 42.3,
+            "end": 44.2,
+            "text": " We'll see in detail in this video."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 44.2,
+            "end": 47.099999999999994,
+            "text": " Let's go to the computer screen and let's get started."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 47.099999999999994,
+            "end": 56.4,
+            "text": " \ud83c\udfb6"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 56.4,
+            "end": 58.4,
+            "text": " Let's see about typecasting today."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 58.4,
+            "end": 61.4,
+            "text": " What is typecasting? Why is it important?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 61.4,
+            "end": 63.9,
+            "text": " I got a comment. I'll tell you what the comment was."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 63.9,
+            "end": 67.5,
+            "text": " The comment was that I did A plus B."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 67.5,
+            "end": 69.9,
+            "text": " The value of A was 1, the value of B was 2,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 69.9,
+            "end": 71.9,
+            "text": " and I got the result of A plus B as 12."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 71.9,
+            "end": 74.9,
+            "text": " So I understood, I got a smile on my face."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 74.9,
+            "end": 77.9,
+            "text": " I said, these things, these problems,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 77.9,
+            "end": 79.5,
+            "text": " Harry also used to have these problems in the past."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 79.5,
+            "end": 80.7,
+            "text": " And he also used to think like this."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 80.7,
+            "end": 83.9,
+            "text": " And today he will tell you why you have these problems."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 83.9,
+            "end": 85.7,
+            "text": " Now see what happens."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 85.7,
+            "end": 87.7,
+            "text": " Suppose you wrote A is equal to 1."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 87.7,
+            "end": 89.7,
+            "text": " I'm telling you a genuine problem."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 89.7,
+            "end": 91.7,
+            "text": " Which comes to Python developers."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 91.7,
+            "end": 93.7,
+            "text": " And developers get frustrated."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 93.7,
+            "end": 97.7,
+            "text": " Now you said, I'll print A plus B."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 97.7,
+            "end": 100.7,
+            "text": " Now you will say, why are you teaching kids?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 100.7,
+            "end": 103.2,
+            "text": " Why are you teaching kids that 1 plus 2 is 3?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 103.2,
+            "end": 106.7,
+            "text": " Why are you wasting time in this course?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 106.7,
+            "end": 109.2,
+            "text": " What did you think?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 109.2,
+            "end": 112.7,
+            "text": " That 13 will come, sorry, 3 will come, 12 came."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 112.7,
+            "end": 114.7,
+            "text": " Now why did 12 come? I'll tell you."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 114.7,
+            "end": 117.7,
+            "text": " A is a string, B is a string."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 117.7,
+            "end": 122.7,
+            "text": " Python does not know that the content in your string is a number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 122.7,
+            "end": 125.7,
+            "text": " When Python gets two strings, it keeps them equal to one."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 125.7,
+            "end": 128.7,
+            "text": " If you write Harry and brother here,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 128.7,
+            "end": 131.7,
+            "text": " where would you write Harry and brother here?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 131.7,
+            "end": 132.7,
+            "text": " I'll show you."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 132.7,
+            "end": 134.7,
+            "text": " If you write Harry and brother,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 134.7,
+            "end": 137.7,
+            "text": " then there would not be any number detection."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 137.7,
+            "end": 139.7,
+            "text": " Harry would have stuck it side by side."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 139.7,
+            "end": 141.7,
+            "text": " Because the concatenation of the string is like this."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 141.7,
+            "end": 144.7,
+            "text": " If you write 1 and 2, it will also stick side by side."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 144.7,
+            "end": 145.7,
+            "text": " So what is the cure?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 145.7,
+            "end": 148.7,
+            "text": " This 1 is a string."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 148.7,
+            "end": 150.7,
+            "text": " This 2 is a string."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 150.7,
+            "end": 153.7,
+            "text": " Convert this into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 153.7,
+            "end": 155.7,
+            "text": " So by pressing the alt shift and down arrow,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 155.7,
+            "end": 157.7,
+            "text": " I will replicate both the lines."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 157.7,
+            "end": 159.7,
+            "text": " Okay, now I wrote A is equal to 1."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 159.7,
+            "end": 161.7,
+            "text": " And here it is written B is equal to 2."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 161.7,
+            "end": 163.7,
+            "text": " By the way, I do not need to comment on these two lines."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 163.7,
+            "end": 165.7,
+            "text": " Because this value was a string first."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 165.7,
+            "end": 167.7,
+            "text": " Then I made it 1 as number again."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 167.7,
+            "end": 169.7,
+            "text": " But still for clarity, I will comment out."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 169.7,
+            "end": 171.7,
+            "text": " Now Ctrl plus forward slash."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 171.7,
+            "end": 172.7,
+            "text": " There is a shortcut."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 172.7,
+            "end": 174.7,
+            "text": " People keep asking what is the shortcut?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 174.7,
+            "end": 176.7,
+            "text": " Control plus forward slash."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 176.7,
+            "end": 178.7,
+            "text": " If I use this shortcut in the future,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 178.7,
+            "end": 179.7,
+            "text": " then remember this."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 179.7,
+            "end": 181.7,
+            "text": " I come again."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 181.7,
+            "end": 183.7,
+            "text": " And A1 B2."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 183.7,
+            "end": 185.7,
+            "text": " Okay, we will run."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 185.7,
+            "end": 186.7,
+            "text": " 3 came."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 186.7,
+            "end": 187.7,
+            "text": " Because this time A was also number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 187.7,
+            "end": 189.7,
+            "text": " And B was also number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 189.7,
+            "end": 190.7,
+            "text": " Okay, take this."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 190.7,
+            "end": 191.7,
+            "text": " There were a lot of complaints."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 191.7,
+            "end": 193.7,
+            "text": " It is not visible."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 193.7,
+            "end": 194.7,
+            "text": " Now it is visible."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 194.7,
+            "end": 196.7,
+            "text": " Okay, it has become quite big."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 196.7,
+            "end": 197.7,
+            "text": " A1 B2."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 197.7,
+            "end": 199.7,
+            "text": " Okay, so what is typecasting?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 199.7,
+            "end": 200.7,
+            "text": " I have written here."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 200.7,
+            "end": 202.7,
+            "text": " The conversion of one data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 202.7,
+            "end": 204.7,
+            "text": " into the other data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 204.7,
+            "end": 206.7,
+            "text": " is known as typecasting in Python."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 206.7,
+            "end": 208.7,
+            "text": " Or type conversion is also called this thing."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 208.7,
+            "end": 211.7,
+            "text": " Python supports a lot of functions."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 211.7,
+            "end": 212.7,
+            "text": " It is not about data types."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 212.7,
+            "end": 214.7,
+            "text": " It is about functions."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 214.7,
+            "end": 219.7,
+            "text": " Int str, ord, hex, oct, tuple, set, list, dict."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 219.7,
+            "end": 221.7,
+            "text": " These are all methods."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 221.7,
+            "end": 222.7,
+            "text": " It is not about data types."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 222.7,
+            "end": 224.7,
+            "text": " These are all data types."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 224.7,
+            "end": 226.7,
+            "text": " This is a function."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 226.7,
+            "end": 227.7,
+            "text": " Which helps"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 227.7,
+            "end": 229.7,
+            "text": " to convert any other data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 229.7,
+            "end": 231.7,
+            "text": " into this data type."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 231.7,
+            "end": 233.7,
+            "text": " Now it will try to convert."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 233.7,
+            "end": 234.7,
+            "text": " Now you will say"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 234.7,
+            "end": 235.7,
+            "text": " convert Harry into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 235.7,
+            "end": 237.7,
+            "text": " How to do it?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 237.7,
+            "end": 239.7,
+            "text": " No, no, how to do it?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 239.7,
+            "end": 240.7,
+            "text": " How to do it?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 240.7,
+            "end": 241.7,
+            "text": " Harry is written."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 241.7,
+            "end": 243.7,
+            "text": " It is a name."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 243.7,
+            "end": 245.7,
+            "text": " Convert it into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 245.7,
+            "end": 246.7,
+            "text": " How?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 246.7,
+            "end": 248.7,
+            "text": " Yes, if your string has 1 written in it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 248.7,
+            "end": 249.7,
+            "text": " Then it is understood."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 249.7,
+            "end": 251.7,
+            "text": " That there is one string."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 251.7,
+            "end": 252.7,
+            "text": " By not making 1 as a string."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 252.7,
+            "end": 254.7,
+            "text": " Make 1 as a number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 254.7,
+            "end": 255.7,
+            "text": " I understand that thing."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 255.7,
+            "end": 256.7,
+            "text": " But what is this?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 256.7,
+            "end": 258.7,
+            "text": " Make Harry a number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 258.7,
+            "end": 260.7,
+            "text": " So Python also gets frustrated."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 260.7,
+            "end": 262.7,
+            "text": " It also gets angry."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 262.7,
+            "end": 264.7,
+            "text": " And gets mad."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 264.7,
+            "end": 265.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 265.7,
+            "end": 266.7,
+            "text": " It says what?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 266.7,
+            "end": 268.7,
+            "text": " You want to convert Harry into a number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 268.7,
+            "end": 269.7,
+            "text": " You can't do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 269.7,
+            "end": 270.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 270.7,
+            "end": 272.7,
+            "text": " There are two types of type casting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 272.7,
+            "end": 273.7,
+            "text": " But before this,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 273.7,
+            "end": 274.7,
+            "text": " I will tell you the basic type casting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 274.7,
+            "end": 275.7,
+            "text": " Now suppose I say"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 275.7,
+            "end": 277.7,
+            "text": " that I don't want to make A as a number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 277.7,
+            "end": 279.7,
+            "text": " I have to do work with this."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 279.7,
+            "end": 280.7,
+            "text": " My A string will be there."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 280.7,
+            "end": 281.7,
+            "text": " B string will be there."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 281.7,
+            "end": 282.7,
+            "text": " If I say, I say."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 282.7,
+            "end": 283.7,
+            "text": " Suppose something like this happens."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 283.7,
+            "end": 284.7,
+            "text": " So what I would do?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 284.7,
+            "end": 286.7,
+            "text": " I would use an int function."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 286.7,
+            "end": 287.7,
+            "text": " I would say that"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 287.7,
+            "end": 290.7,
+            "text": " int of A and int of B."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 290.7,
+            "end": 292.7,
+            "text": " Add it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 292.7,
+            "end": 293.7,
+            "text": " So 12 doesn't come."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 293.7,
+            "end": 295.7,
+            "text": " Then it would convert into an integer first."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 295.7,
+            "end": 297.7,
+            "text": " Then it converts B into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 297.7,
+            "end": 298.7,
+            "text": " Converts A into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 298.7,
+            "end": 299.7,
+            "text": " Converts B into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 299.7,
+            "end": 301.7,
+            "text": " 1 and 2 became as a number."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 301.7,
+            "end": 302.7,
+            "text": " If you add both, 3 will come."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 302.7,
+            "end": 303.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 303.7,
+            "end": 304.7,
+            "text": " This is such a thing."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 304.7,
+            "end": 305.7,
+            "text": " This 3 came here in some way."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 305.7,
+            "end": 307.7,
+            "text": " If I don't do this int A, int B."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 307.7,
+            "end": 308.7,
+            "text": " Then 1, 2 was coming."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 308.7,
+            "end": 309.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 309.7,
+            "end": 310.7,
+            "text": " But what will happen"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 310.7,
+            "end": 311.7,
+            "text": " if I make it 1 Harry?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 311.7,
+            "end": 312.7,
+            "text": " This time error will come."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 312.7,
+            "end": 313.7,
+            "text": " Python will say"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 313.7,
+            "end": 315.7,
+            "text": " that I can convert 1 into a number"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 315.7,
+            "end": 317.7,
+            "text": " because it is a valid integer entry."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 317.7,
+            "end": 319.7,
+            "text": " How can I convert 1 Harry?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 319.7,
+            "end": 320.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 320.7,
+            "end": 323.7,
+            "text": " So that's why Python gives an error."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 323.7,
+            "end": 325.7,
+            "text": " So your strings should be valid."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 325.7,
+            "end": 327.7,
+            "text": " If you are converting in any data type."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 327.7,
+            "end": 329.7,
+            "text": " Whichever data type you are converting,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 329.7,
+            "end": 331.7,
+            "text": " if you are converting in an integer,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 331.7,
+            "end": 334.7,
+            "text": " then it should be a valid integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 334.7,
+            "end": 336.7,
+            "text": " If you are converting in float,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 336.7,
+            "end": 337.7,
+            "text": " then it should be a valid float."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 337.7,
+            "end": 339.7,
+            "text": " Means it should be valid."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 339.7,
+            "end": 340.7,
+            "text": " Python should be able to do its work."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 340.7,
+            "end": 342.7,
+            "text": " It is not that you have given problems to Python."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 342.7,
+            "end": 343.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 343.7,
+            "end": 345.7,
+            "text": " Now see there are two types of typecasting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 345.7,
+            "end": 346.7,
+            "text": " One explicit and one implicit."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 346.7,
+            "end": 348.7,
+            "text": " Explicit means that I am doing it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 348.7,
+            "end": 349.7,
+            "text": " I am doing it willingly."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 349.7,
+            "end": 350.7,
+            "text": " What is implicit?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 350.7,
+            "end": 352.7,
+            "text": " Python is doing it automatically."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 352.7,
+            "end": 354.7,
+            "text": " I will tell you about both."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 354.7,
+            "end": 355.7,
+            "text": " Explicit conversion means"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 355.7,
+            "end": 358.7,
+            "text": " that I am doing conversion as a programmer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 358.7,
+            "end": 360.7,
+            "text": " I am telling Python interpreter."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 360.7,
+            "end": 361.7,
+            "text": " Hey Python interpreter,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 361.7,
+            "end": 364.7,
+            "text": " convert this data type into this data type."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 364.7,
+            "end": 365.7,
+            "text": " Like I did in this case."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 365.7,
+            "end": 366.7,
+            "text": " What did I do?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 366.7,
+            "end": 368.7,
+            "text": " I said convert the string into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 368.7,
+            "end": 369.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 369.7,
+            "end": 370.7,
+            "text": " I said this to Python."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 370.7,
+            "end": 371.7,
+            "text": " Python said,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 371.7,
+            "end": 373.7,
+            "text": " okay brother, I will do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 373.7,
+            "end": 374.7,
+            "text": " What did Python say?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 374.7,
+            "end": 376.7,
+            "text": " Okay brother, I will do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 376.7,
+            "end": 378.7,
+            "text": " And it converted one into an integer,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 378.7,
+            "end": 379.7,
+            "text": " converted two into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 379.7,
+            "end": 380.7,
+            "text": " When we joined both,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 380.7,
+            "end": 382.7,
+            "text": " then two and one came."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 382.7,
+            "end": 383.7,
+            "text": " Did it come or not?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 383.7,
+            "end": 384.7,
+            "text": " Absolutely came."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 384.7,
+            "end": 385.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 385.7,
+            "end": 387.7,
+            "text": " So what is explicit conversion?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 387.7,
+            "end": 388.7,
+            "text": " That we are doing it separately."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 388.7,
+            "end": 390.7,
+            "text": " What is implicit conversion?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 390.7,
+            "end": 392.7,
+            "text": " That Python is doing it by itself."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 392.7,
+            "end": 393.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 393.7,
+            "end": 394.7,
+            "text": " I understood explicit conversion."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 394.7,
+            "end": 395.7,
+            "text": " What should I read so big that"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 395.7,
+            "end": 396.7,
+            "text": " the conversion of one data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 396.7,
+            "end": 397.7,
+            "text": " into another data type is done by"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 397.7,
+            "end": 398.7,
+            "text": " a developer or programmer"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 398.7,
+            "end": 399.7,
+            "text": " is interventional or manually"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 399.7,
+            "end": 401.7,
+            "text": " known as explicit type conversion."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 401.7,
+            "end": 402.7,
+            "text": " It will be a waste of time if I read like this."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 402.7,
+            "end": 403.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 403.7,
+            "end": 404.7,
+            "text": " It can be achieved with the help of"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 404.7,
+            "end": 405.7,
+            "text": " Python's built-in function,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 405.7,
+            "end": 406.7,
+            "text": " conversion function,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 406.7,
+            "end": 408.7,
+            "text": " inflow hex, oct, string, etc."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 408.7,
+            "end": 409.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 409.7,
+            "end": 410.7,
+            "text": " You are watching in one x."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 410.7,
+            "end": 411.7,
+            "text": " Don't worry about the video."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 411.7,
+            "end": 412.7,
+            "text": " Don't check."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 412.7,
+            "end": 413.7,
+            "text": " I gave an example here."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 413.7,
+            "end": 414.7,
+            "text": " I did the same thing here."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 414.7,
+            "end": 415.7,
+            "text": " So you run it yourself."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 415.7,
+            "end": 416.7,
+            "text": " This is your work."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 416.7,
+            "end": 417.7,
+            "text": " This is your exercise."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 417.7,
+            "end": 418.7,
+            "text": " Do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 418.7,
+            "end": 419.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 419.7,
+            "end": 420.7,
+            "text": " Output,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 420.7,
+            "end": 421.7,
+            "text": " the sum of both the numbers is 22."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 421.7,
+            "end": 422.7,
+            "text": " This will be the output."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 422.7,
+            "end": 423.7,
+            "text": " See it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 423.7,
+            "end": 424.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 424.7,
+            "end": 425.7,
+            "text": " Now let's talk about implicit typecasting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 425.7,
+            "end": 427.7,
+            "text": " Implicit typecasting means that"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 427.7,
+            "end": 428.7,
+            "text": " Python says that"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 428.7,
+            "end": 430.7,
+            "text": " you convert your data type."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 430.7,
+            "end": 431.7,
+            "text": " Let's do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 431.7,
+            "end": 432.7,
+            "text": " You won't do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 432.7,
+            "end": 433.7,
+            "text": " We will do it."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 433.7,
+            "end": 434.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 434.7,
+            "end": 435.7,
+            "text": " So I will tell you what happens."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 435.7,
+            "end": 437.7,
+            "text": " Data types in Python do not have the same level."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 437.7,
+            "end": 438.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 438.7,
+            "end": 439.7,
+            "text": " Ordering of data types is not the same in Python."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 439.7,
+            "end": 441.7,
+            "text": " Some of the data types have higher order"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 441.7,
+            "end": 442.7,
+            "text": " and some have lower order."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 442.7,
+            "end": 444.7,
+            "text": " So whenever we are performing operations"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 444.7,
+            "end": 445.7,
+            "text": " in two variables,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 445.7,
+            "end": 447.7,
+            "text": " then a small type,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 447.7,
+            "end": 449.7,
+            "text": " which is a lower order variable,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 449.7,
+            "end": 450.7,
+            "text": " lower order variable,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 450.7,
+            "end": 451.7,
+            "text": " is converted to higher order."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 451.7,
+            "end": 452.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 452.7,
+            "end": 453.7,
+            "text": " So I do one thing here."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 453.7,
+            "end": 454.7,
+            "text": " I write a comment here."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 454.7,
+            "end": 455.7,
+            "text": " I write here"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 455.7,
+            "end": 456.7,
+            "text": " implicit"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 458.7,
+            "end": 459.7,
+            "text": " type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 460.7,
+            "end": 461.7,
+            "text": " casting."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 461.7,
+            "end": 462.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 462.7,
+            "end": 463.7,
+            "text": " Now suppose I wrote"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 463.7,
+            "end": 465.7,
+            "text": " c is equal to 1.9"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 465.7,
+            "end": 467.7,
+            "text": " and I wrote d is equal to 8."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 467.7,
+            "end": 469.7,
+            "text": " So if I write here"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 469.7,
+            "end": 471.7,
+            "text": " print c plus d,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 471.7,
+            "end": 473.7,
+            "text": " then what will happen?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 473.7,
+            "end": 475.7,
+            "text": " c plus d will be converted"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 475.7,
+            "end": 476.7,
+            "text": " into an integer."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 476.7,
+            "end": 477.7,
+            "text": " So what I will get,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 477.7,
+            "end": 478.7,
+            "text": " sorry, in float,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 478.7,
+            "end": 479.7,
+            "text": " so the result I will get,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 479.7,
+            "end": 480.7,
+            "text": " will be in float."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 480.7,
+            "end": 481.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 481.7,
+            "end": 482.7,
+            "text": " I got 9.9."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 482.7,
+            "end": 485.7,
+            "text": " So my data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 485.7,
+            "end": 486.7,
+            "text": " will be in float."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 486.7,
+            "end": 487.7,
+            "text": " So here,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 487.7,
+            "end": 488.7,
+            "text": " I have written here"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 488.7,
+            "end": 489.7,
+            "text": " that according to the level,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 489.7,
+            "end": 490.7,
+            "text": " one data type is converted"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 490.7,
+            "end": 491.7,
+            "text": " to another"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 491.7,
+            "end": 492.7,
+            "text": " automatically"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 492.7,
+            "end": 493.7,
+            "text": " by Python interpreter."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 493.7,
+            "end": 495.7,
+            "text": " This is called implicit type conversion."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 495.7,
+            "end": 497.7,
+            "text": " Python converts a smaller data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 497.7,
+            "end": 498.7,
+            "text": " to a higher data type"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 498.7,
+            "end": 499.7,
+            "text": " to prevent data loss."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 499.7,
+            "end": 500.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 500.7,
+            "end": 501.7,
+            "text": " If it would have converted c"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 501.7,
+            "end": 502.7,
+            "text": " into an integer and added it,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 502.7,
+            "end": 503.7,
+            "text": " then it would have been 9."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 503.7,
+            "end": 504.7,
+            "text": " But it didn't do that."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 504.7,
+            "end": 505.7,
+            "text": " It left c as float"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 505.7,
+            "end": 506.7,
+            "text": " and it converted d into float."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 506.7,
+            "end": 507.7,
+            "text": " It did float plus float."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 507.7,
+            "end": 508.7,
+            "text": " The result of c plus d"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 508.7,
+            "end": 509.7,
+            "text": " is 9.9."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 509.7,
+            "end": 510.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 510.7,
+            "end": 511.7,
+            "text": " So this is how"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 511.7,
+            "end": 512.7,
+            "text": " implicit type casting is done."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 512.7,
+            "end": 514.7,
+            "text": " I have also given an example in Python."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 514.7,
+            "end": 515.7,
+            "text": " It is a very similar example."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 515.7,
+            "end": 516.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 516.7,
+            "end": 517.7,
+            "text": " What was its type?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 517.7,
+            "end": 518.7,
+            "text": " It was its type."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 518.7,
+            "end": 520.7,
+            "text": " Integer was its type."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 520.7,
+            "end": 522.7,
+            "text": " Float will be the type of result."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 522.7,
+            "end": 523.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 523.7,
+            "end": 524.7,
+            "text": " So you can also use"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 524.7,
+            "end": 525.7,
+            "text": " the type function"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 525.7,
+            "end": 526.7,
+            "text": " to find out this thing."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 526.7,
+            "end": 527.7,
+            "text": " I hope you enjoyed"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 527.7,
+            "end": 528.7,
+            "text": " in day 9."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 528.7,
+            "end": 529.7,
+            "text": " If you don't want to access the playlist,"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 529.7,
+            "end": 530.7,
+            "text": " then do it in Python."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 530.7,
+            "end": 531.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 531.7,
+            "end": 532.7,
+            "text": " Do it now."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 532.7,
+            "end": 533.7,
+            "text": " Go and bookmark this playlist."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 533.7,
+            "end": 535.7,
+            "text": " And save this playlist."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 535.7,
+            "end": 536.7,
+            "text": " Okay."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 536.7,
+            "end": 537.7,
+            "text": " Where will you click to save?"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 537.7,
+            "end": 538.7,
+            "text": " Click here to bookmark."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 538.7,
+            "end": 539.7,
+            "text": " Click here to save."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 539.7,
+            "end": 540.7,
+            "text": " See you in the next video."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 540.7,
+            "end": 541.7,
+            "text": " Thank you so much guys"
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 541.7,
+            "end": 543.7,
+            "text": " for watching this video."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 543.7,
+            "end": 545.7,
+            "text": " And I will see you in day 10."
+        },
+        {
+            "Number": "9",
+            "title": "Typecasting in Python .mp3",
+            "start": 545.7,
+            "end": 546.7,
+            "text": " Thank you."
+        }
+    ],
+    "text": " Oh, what a thing, friends! Even in day 9, 100 days of code consistency 1 system, yes? Today, I will tell you about typecasting. This term sounds scary to hear, typecasting. But I'll tell you that it's a very simple thing. Look, we made a string variable, and it has 27 written in it. We enclosed it in double quotes because it was a string, so we put 27 in double quotes. But if we add it to 3, then 30 won't come because it's a 27 string and 3 is an integer. So if we want to tell Python that the thing written in double quotes is a valid number, then we can typecast it to an integer by using int function. How does all this work? We'll see in detail in this video. Let's go to the computer screen and let's get started. \ud83c\udfb6 Let's see about typecasting today. What is typecasting? Why is it important? I got a comment. I'll tell you what the comment was. The comment was that I did A plus B. The value of A was 1, the value of B was 2, and I got the result of A plus B as 12. So I understood, I got a smile on my face. I said, these things, these problems, Harry also used to have these problems in the past. And he also used to think like this. And today he will tell you why you have these problems. Now see what happens. Suppose you wrote A is equal to 1. I'm telling you a genuine problem. Which comes to Python developers. And developers get frustrated. Now you said, I'll print A plus B. Now you will say, why are you teaching kids? Why are you teaching kids that 1 plus 2 is 3? Why are you wasting time in this course? What did you think? That 13 will come, sorry, 3 will come, 12 came. Now why did 12 come? I'll tell you. A is a string, B is a string. Python does not know that the content in your string is a number. When Python gets two strings, it keeps them equal to one. If you write Harry and brother here, where would you write Harry and brother here? I'll show you. If you write Harry and brother, then there would not be any number detection. Harry would have stuck it side by side. Because the concatenation of the string is like this. If you write 1 and 2, it will also stick side by side. So what is the cure? This 1 is a string. This 2 is a string. Convert this into an integer. So by pressing the alt shift and down arrow, I will replicate both the lines. Okay, now I wrote A is equal to 1. And here it is written B is equal to 2. By the way, I do not need to comment on these two lines. Because this value was a string first. Then I made it 1 as number again. But still for clarity, I will comment out. Now Ctrl plus forward slash. There is a shortcut. People keep asking what is the shortcut? Control plus forward slash. If I use this shortcut in the future, then remember this. I come again. And A1 B2. Okay, we will run. 3 came. Because this time A was also number. And B was also number. Okay, take this. There were a lot of complaints. It is not visible. Now it is visible. Okay, it has become quite big. A1 B2. Okay, so what is typecasting? I have written here. The conversion of one data type into the other data type is known as typecasting in Python. Or type conversion is also called this thing. Python supports a lot of functions. It is not about data types. It is about functions. Int str, ord, hex, oct, tuple, set, list, dict. These are all methods. It is not about data types. These are all data types. This is a function. Which helps to convert any other data type into this data type. Now it will try to convert. Now you will say convert Harry into an integer. How to do it? No, no, how to do it? How to do it? Harry is written. It is a name. Convert it into an integer. How? Yes, if your string has 1 written in it. Then it is understood. That there is one string. By not making 1 as a string. Make 1 as a number. I understand that thing. But what is this? Make Harry a number. So Python also gets frustrated. It also gets angry. And gets mad. Okay. It says what? You want to convert Harry into a number. You can't do it. Okay. There are two types of type casting. But before this, I will tell you the basic type casting. Now suppose I say that I don't want to make A as a number. I have to do work with this. My A string will be there. B string will be there. If I say, I say. Suppose something like this happens. So what I would do? I would use an int function. I would say that int of A and int of B. Add it. So 12 doesn't come. Then it would convert into an integer first. Then it converts B into an integer. Converts A into an integer. Converts B into an integer. 1 and 2 became as a number. If you add both, 3 will come. Okay. This is such a thing. This 3 came here in some way. If I don't do this int A, int B. Then 1, 2 was coming. Okay. But what will happen if I make it 1 Harry? This time error will come. Python will say that I can convert 1 into a number because it is a valid integer entry. How can I convert 1 Harry? Okay. So that's why Python gives an error. So your strings should be valid. If you are converting in any data type. Whichever data type you are converting, if you are converting in an integer, then it should be a valid integer. If you are converting in float, then it should be a valid float. Means it should be valid. Python should be able to do its work. It is not that you have given problems to Python. Okay. Now see there are two types of typecasting. One explicit and one implicit. Explicit means that I am doing it. I am doing it willingly. What is implicit? Python is doing it automatically. I will tell you about both. Explicit conversion means that I am doing conversion as a programmer. I am telling Python interpreter. Hey Python interpreter, convert this data type into this data type. Like I did in this case. What did I do? I said convert the string into an integer. Okay. I said this to Python. Python said, okay brother, I will do it. What did Python say? Okay brother, I will do it. And it converted one into an integer, converted two into an integer. When we joined both, then two and one came. Did it come or not? Absolutely came. Okay. So what is explicit conversion? That we are doing it separately. What is implicit conversion? That Python is doing it by itself. Okay. I understood explicit conversion. What should I read so big that the conversion of one data type into another data type is done by a developer or programmer is interventional or manually known as explicit type conversion. It will be a waste of time if I read like this. Okay. It can be achieved with the help of Python's built-in function, conversion function, inflow hex, oct, string, etc. Okay. You are watching in one x. Don't worry about the video. Don't check. I gave an example here. I did the same thing here. So you run it yourself. This is your work. This is your exercise. Do it. Okay. Output, the sum of both the numbers is 22. This will be the output. See it. Okay. Now let's talk about implicit typecasting. Implicit typecasting means that Python says that you convert your data type. Let's do it. You won't do it. We will do it. Okay. So I will tell you what happens. Data types in Python do not have the same level. Okay. Ordering of data types is not the same in Python. Some of the data types have higher order and some have lower order. So whenever we are performing operations in two variables, then a small type, which is a lower order variable, lower order variable, is converted to higher order. Okay. So I do one thing here. I write a comment here. I write here implicit type casting. Okay. Now suppose I wrote c is equal to 1.9 and I wrote d is equal to 8. So if I write here print c plus d, then what will happen? c plus d will be converted into an integer. So what I will get, sorry, in float, so the result I will get, will be in float. Okay. I got 9.9. So my data type will be in float. So here, I have written here that according to the level, one data type is converted to another automatically by Python interpreter. This is called implicit type conversion. Python converts a smaller data type to a higher data type to prevent data loss. Okay. If it would have converted c into an integer and added it, then it would have been 9. But it didn't do that. It left c as float and it converted d into float. It did float plus float. The result of c plus d is 9.9. Okay. So this is how implicit type casting is done. I have also given an example in Python. It is a very similar example. Okay. What was its type? It was its type. Integer was its type. Float will be the type of result. Okay. So you can also use the type function to find out this thing. I hope you enjoyed in day 9. If you don't want to access the playlist, then do it in Python. Okay. Do it now. Go and bookmark this playlist. And save this playlist. Okay. Where will you click to save? Click here to bookmark. Click here to save. See you in the next video. Thank you so much guys for watching this video. And I will see you in day 10. Thank you."
+}

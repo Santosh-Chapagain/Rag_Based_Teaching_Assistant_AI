@@ -1,0 +1,1825 @@
+{
+    "chunks": [
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 0.0,
+            "end": 3.6,
+            "text": " In 100 days of code, you guys have made a lot of noise."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 3.6,
+            "end": 6.72,
+            "text": " Everyone's tempo is very high."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 6.72,
+            "end": 10.96,
+            "text": " So today I am going to tell you how we can take user input."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 10.96,
+            "end": 15.56,
+            "text": " If you interact with a program and then it responds,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 15.56,
+            "end": 17.2,
+            "text": " then you will have a lot of fun."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 17.2,
+            "end": 20.2,
+            "text": " Do you know why games are so addictive?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 20.2,
+            "end": 22.52,
+            "text": " Because whatever input they are giving to the computer,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 22.52,
+            "end": 26.12,
+            "text": " the computer actually responds to their inputs."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 26.12,
+            "end": 29.400000000000002,
+            "text": " And then they really like this thing that we are giving input"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 29.4,
+            "end": 31.479999999999997,
+            "text": " and the computer is responding."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 31.479999999999997,
+            "end": 34.68,
+            "text": " You can give this kind of input to your Python programs."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 34.68,
+            "end": 37.0,
+            "text": " I will tell you how this thing is done."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 37.0,
+            "end": 40.08,
+            "text": " How Python program is given input from your keyboard."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 40.08,
+            "end": 43.08,
+            "text": " Let's go to the computer screen and let's get started."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 52.599999999999994,
+            "end": 57.599999999999994,
+            "text": " The user input in Python programming is taken with the help of input function."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 57.6,
+            "end": 62.68,
+            "text": " Now the input function in Python programming takes a string prompt from you."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 62.68,
+            "end": 66.48,
+            "text": " That is, it asks you what input you want to give."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 66.48,
+            "end": 68.0,
+            "text": " You can put a message in it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 68.0,
+            "end": 71.24000000000001,
+            "text": " I will show you exactly how these things work."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 71.24000000000001,
+            "end": 74.32,
+            "text": " Let's zoom out a little."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 74.32,
+            "end": 77.48,
+            "text": " Okay, I zoomed in a little too much."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 77.48,
+            "end": 79.52000000000001,
+            "text": " So I zoom out a little."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 79.52000000000001,
+            "end": 83.68,
+            "text": " I zoom in so much that it looks a little and it's fun."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 83.72000000000001,
+            "end": 84.92,
+            "text": " So it's a very simple thing."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 84.92,
+            "end": 88.4,
+            "text": " To get user input, we use the input function."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 88.4,
+            "end": 89.4,
+            "text": " What is input function?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 89.4,
+            "end": 90.96000000000001,
+            "text": " It's a very simple thing."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 90.96000000000001,
+            "end": 94.56,
+            "text": " What you have to do is that a variable is equal to input."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 94.56,
+            "end": 95.92,
+            "text": " You have to do something like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 95.92,
+            "end": 99.24000000000001,
+            "text": " In Python, we can take user input directly using input function."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 99.24000000000001,
+            "end": 103.56,
+            "text": " The input function gives a return value as string character."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 103.56,
+            "end": 105.92000000000002,
+            "text": " Hence, we have to pass that into the variable."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 105.92000000000002,
+            "end": 107.52000000000001,
+            "text": " Now I will tell you what it means."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 107.52000000000001,
+            "end": 108.96000000000001,
+            "text": " See, it's very simple."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 108.96000000000001,
+            "end": 111.92000000000002,
+            "text": " If I write A is equal to input, that's all I have to write."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 111.92000000000002,
+            "end": 113.52000000000001,
+            "text": " And then I write print A."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 113.56,
+            "end": 117.84,
+            "text": " So we have made this the most basic program to get input in Python."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 117.84,
+            "end": 121.03999999999999,
+            "text": " So if I write Harry here and hit enter,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 121.03999999999999,
+            "end": 122.96,
+            "text": " it will print Harry."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 122.96,
+            "end": 124.28,
+            "text": " I could have done something like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 124.28,
+            "end": 130.28,
+            "text": " I could have said that my name is and then I will write A."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 130.28,
+            "end": 132.72,
+            "text": " So my name is Harry will be printed and come."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 132.72,
+            "end": 134.32,
+            "text": " Because there is Harry in A."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 134.32,
+            "end": 136.44,
+            "text": " Okay, so this thing was very simple."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 136.44,
+            "end": 137.8,
+            "text": " And you guys understood."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 137.8,
+            "end": 139.6,
+            "text": " I will write Harry here first."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 139.6,
+            "end": 142.24,
+            "text": " And then my name is Harry will be written."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 142.28,
+            "end": 143.60000000000002,
+            "text": " This thing was very simple."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 143.60000000000002,
+            "end": 144.4,
+            "text": " You understood it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 144.4,
+            "end": 145.0,
+            "text": " It's good."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 145.0,
+            "end": 146.0,
+            "text": " It's a very good thing."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 146.0,
+            "end": 149.60000000000002,
+            "text": " Okay, but what you can do is that you can also give a string in it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 149.60000000000002,
+            "end": 151.60000000000002,
+            "text": " I can do something like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 153.24,
+            "end": 155.76000000000002,
+            "text": " Enter your name."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 155.76000000000002,
+            "end": 157.12,
+            "text": " I have given a colon space."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 157.12,
+            "end": 158.64000000000001,
+            "text": " So here you will write enter your name."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 158.64000000000001,
+            "end": 164.08,
+            "text": " That is, the string that I have put in the input will literally show me this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 164.08,
+            "end": 169.48000000000002,
+            "text": " And if I write Harry here, then my name is Harry will be shown like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 169.48,
+            "end": 176.35999999999999,
+            "text": " This means that the input function assigns the string in the variable that the user inputs."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 176.35999999999999,
+            "end": 181.48,
+            "text": " Like if I write A is equal to input, then the string that the user is going to write will come in A."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 181.48,
+            "end": 187.56,
+            "text": " And your program waits if you have not given any string after input."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 187.56,
+            "end": 190.51999999999998,
+            "text": " And if you have given a string, then that string is shown."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 190.51999999999998,
+            "end": 194.23999999999998,
+            "text": " And after that, the program waits for you to input something from your keyboard."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 194.23999999999998,
+            "end": 196.23999999999998,
+            "text": " Okay, this is the input function."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 196.23999999999998,
+            "end": 199.2,
+            "text": " You wrote my name is A, so my name is Harry came here."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 199.23999999999998,
+            "end": 200.76,
+            "text": " So far, everyone is clear."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 200.76,
+            "end": 203.04,
+            "text": " Now what happens is that a lot of people make a program."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 203.04,
+            "end": 206.56,
+            "text": " I mean, in Python programming, I will say that this is the biggest doubt."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 206.56,
+            "end": 211.04,
+            "text": " One of the biggest doubts that people come up with."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 211.04,
+            "end": 213.28,
+            "text": " Now I will tell you what happens."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 213.28,
+            "end": 215.28,
+            "text": " People say that B is equal to input."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 215.28,
+            "end": 218.0,
+            "text": " Enter first number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 218.0,
+            "end": 220.64,
+            "text": " Okay, I in fact make it X."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 220.64,
+            "end": 223.44,
+            "text": " Okay, I make it Y."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 223.44,
+            "end": 226.39999999999998,
+            "text": " And here I will write input second number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 226.39999999999998,
+            "end": 228.95999999999998,
+            "text": " Okay, so the first number will come inside X."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 228.96,
+            "end": 230.96,
+            "text": " The second number will come inside Y."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 230.96,
+            "end": 232.96,
+            "text": " Now you print X plus Y."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 232.96,
+            "end": 234.96,
+            "text": " And I also got a comment. I don't know whose comment it was."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 234.96,
+            "end": 236.96,
+            "text": " But I got this comment with this problem."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 236.96,
+            "end": 238.96,
+            "text": " Now I will tell you what it was."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 238.96,
+            "end": 240.96,
+            "text": " Now see, if you print the first number 10,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 240.96,
+            "end": 242.96,
+            "text": " and if you print the second number 3,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 242.96,
+            "end": 244.96,
+            "text": " I mean, I print 100, the first number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 244.96,
+            "end": 246.96,
+            "text": " In fact, the one above is running, so I write Harry."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 246.96,
+            "end": 248.96,
+            "text": " Now he says, give me the first number, I gave 12."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 248.96,
+            "end": 250.96,
+            "text": " I gave the second number 100."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 250.96,
+            "end": 252.96,
+            "text": " What should come?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 252.96,
+            "end": 254.96,
+            "text": " 112 should come, right? 100 and 12 are 112."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 254.96,
+            "end": 256.96000000000004,
+            "text": " But no."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 256.96,
+            "end": 258.96,
+            "text": " 12 came 100."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 258.96,
+            "end": 260.96,
+            "text": " Now you will say that what is going on?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 260.96,
+            "end": 262.96,
+            "text": " Python is broken, or it is a failure."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 262.96,
+            "end": 264.96,
+            "text": " Many people say that my Python is bad."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 264.96,
+            "end": 266.96,
+            "text": " They bring doubts like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 266.96,
+            "end": 268.96,
+            "text": " No, brother, first make your own mistake."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 268.96,
+            "end": 270.96,
+            "text": " I mean, what is my Python bad?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 270.96,
+            "end": 272.96,
+            "text": " My computer is bad."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 272.96,
+            "end": 274.96,
+            "text": " People start talking like this when they have doubts in programming."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 274.96,
+            "end": 276.96,
+            "text": " Yes, things can be bad."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 276.96,
+            "end": 278.96,
+            "text": " But you understand, right?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 278.96,
+            "end": 280.96,
+            "text": " Now I will tell you what is happening here."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 280.96,
+            "end": 282.96,
+            "text": " When we wrote X is equal to input,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 282.96,
+            "end": 284.96,
+            "text": " enter first number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 284.96,
+            "end": 286.96,
+            "text": " So what happens?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 286.96,
+            "end": 288.96,
+            "text": " Whatever we have inputted in X, it comes."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 288.96,
+            "end": 290.96,
+            "text": " But there is a rule for this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 290.96,
+            "end": 292.96,
+            "text": " What is that rule?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 292.96,
+            "end": 294.96,
+            "text": " Whatever comes in X, it comes as a string."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 294.96,
+            "end": 296.96,
+            "text": " If you have also inputted a number,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 296.96,
+            "end": 298.96,
+            "text": " then the Python input function"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 298.96,
+            "end": 300.96,
+            "text": " is not intelligent enough"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 300.96,
+            "end": 302.96,
+            "text": " to detect your number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 302.96,
+            "end": 304.96,
+            "text": " Brother, you have put a number,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 304.96,
+            "end": 306.96,
+            "text": " so I should not take it as a string, but as a number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 306.96,
+            "end": 308.96,
+            "text": " No, the Python input function"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 308.96,
+            "end": 310.96,
+            "text": " says that whatever you enter,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 310.96,
+            "end": 312.96,
+            "text": " I will take it as a string."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 312.96,
+            "end": 314.96,
+            "text": " Now, if you are entering a number,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 314.96,
+            "end": 316.96,
+            "text": " then you can typecast it in int."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 316.96,
+            "end": 318.96,
+            "text": " We have read typecasting."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 318.96,
+            "end": 320.96,
+            "text": " Convert it from one data type to another data type."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 320.96,
+            "end": 322.96,
+            "text": " So, X will be a string,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 322.96,
+            "end": 324.96,
+            "text": " Y will be a string."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 324.96,
+            "end": 326.96,
+            "text": " And when a string is added in Python,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 326.96,
+            "end": 328.96,
+            "text": " we have not read the string yet,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 328.96,
+            "end": 330.96,
+            "text": " but I will tell you."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 330.96,
+            "end": 332.96,
+            "text": " When I am doing X plus Y as a string,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 332.96,
+            "end": 334.96,
+            "text": " then Python literally adds the two strings."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 334.96,
+            "end": 336.96,
+            "text": " It concatenates."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 336.96,
+            "end": 338.96,
+            "text": " That means if we add 12 and 100,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 338.96,
+            "end": 340.96,
+            "text": " if someone asks, what will happen"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 340.96,
+            "end": 342.96,
+            "text": " if we add 12 and 100?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 342.96,
+            "end": 344.96,
+            "text": " Look, if there is an integer,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 344.96,
+            "end": 346.96,
+            "text": " then 112 will come."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 346.96,
+            "end": 348.96,
+            "text": " Even a fourth-grade kid knows this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 348.96,
+            "end": 350.96,
+            "text": " And if a fourth-grade kid is watching,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 350.96,
+            "end": 352.96,
+            "text": " and if this is a string,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 352.96,
+            "end": 354.96,
+            "text": " 12 and 100,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 354.96,
+            "end": 356.96,
+            "text": " then what will happen?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 356.96,
+            "end": 358.96,
+            "text": " 12100 will be printed like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 358.96,
+            "end": 360.96,
+            "text": " That means these strings will be concatenated."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 360.96,
+            "end": 362.96,
+            "text": " If we add it in Harry,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 362.96,
+            "end": 364.96,
+            "text": " if we have added lovish,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 364.96,
+            "end": 366.96,
+            "text": " then Harry lovish will be printed like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 366.96,
+            "end": 368.96,
+            "text": " If we add Rohan in Harry,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 368.96,
+            "end": 370.96,
+            "text": " then Harry Rohan will be printed like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 370.96,
+            "end": 372.96,
+            "text": " As a string."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 372.96,
+            "end": 374.96,
+            "text": " Now Harry is not a number,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 374.96,
+            "end": 376.96,
+            "text": " Rohan is not a number,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 376.96,
+            "end": 378.96,
+            "text": " so adding a new number will not come."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 378.96,
+            "end": 380.96,
+            "text": " So by doing X plus Y,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 380.96,
+            "end": 382.96,
+            "text": " it is natural that we get 12100."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 382.96,
+            "end": 384.96,
+            "text": " Now you see here,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 384.96,
+            "end": 386.96,
+            "text": " if I want to take 112,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 386.96,
+            "end": 388.96,
+            "text": " then I will print it like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 388.96,
+            "end": 390.96,
+            "text": " I will say,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 390.96,
+            "end": 392.96,
+            "text": " look, X but as an integer,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 392.96,
+            "end": 394.96,
+            "text": " Y but as an integer,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 394.96,
+            "end": 396.96,
+            "text": " and the two of them"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 396.96,
+            "end": 398.96,
+            "text": " as an integer."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 398.96,
+            "end": 400.96,
+            "text": " Now I will run the program."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 400.96,
+            "end": 402.96,
+            "text": " First, it will ask me for the name."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 402.96,
+            "end": 404.96,
+            "text": " I wrote Harry."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 404.96,
+            "end": 406.96,
+            "text": " I put 45 in the first number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 406.96,
+            "end": 408.96,
+            "text": " And in the second number,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 408.96,
+            "end": 410.96,
+            "text": " I put 8. It will be 53."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 410.96,
+            "end": 412.96,
+            "text": " And this,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 412.96,
+            "end": 414.96,
+            "text": " which I did with print X plus Y,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 414.96,
+            "end": 416.96,
+            "text": " it is 458. It put 8"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 416.96,
+            "end": 418.96,
+            "text": " equal to 45."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 418.96,
+            "end": 420.96,
+            "text": " This is concatenation and this is"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 420.96,
+            "end": 422.96,
+            "text": " actual arithmetic operation between two integers."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 422.96,
+            "end": 424.96,
+            "text": " Arithmetic operation will happen"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 424.96,
+            "end": 426.96,
+            "text": " when both the integers are there."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 426.96,
+            "end": 428.96,
+            "text": " And here both the integers, you can see X"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 428.96,
+            "end": 430.96,
+            "text": " and Y, both were not integers."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 430.96,
+            "end": 432.96,
+            "text": " And here we made them"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 432.96,
+            "end": 434.96,
+            "text": " integers. Now I will tell you"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 434.96,
+            "end": 436.96,
+            "text": " one more case."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 436.96,
+            "end": 438.96,
+            "text": " And I will tell you the solution of that in this course"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 438.96,
+            "end": 440.96,
+            "text": " 100 days of code."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 440.96,
+            "end": 442.96,
+            "text": " But now I will not tell you the solution of that."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 442.96,
+            "end": 444.96,
+            "text": " And I will give you a hint. If anyone wants to see,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 444.96,
+            "end": 446.96,
+            "text": " he can see. I gave the first number 89."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 446.96,
+            "end": 448.96,
+            "text": " And I gave the second number Harry."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 448.96,
+            "end": 450.96,
+            "text": " You will say, wait a minute, Harry is not a number."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 450.96,
+            "end": 452.96,
+            "text": " I just gave it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 452.96,
+            "end": 454.96,
+            "text": " It happens that some people are made to break."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 454.96,
+            "end": 456.96,
+            "text": " They break things,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 456.96,
+            "end": 458.96,
+            "text": " spoil things, whatever it is,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 458.96,
+            "end": 460.96,
+            "text": " whatever thing comes in their hands, phone,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 460.96,
+            "end": 462.96,
+            "text": " they drop it in their hands. If it breaks,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 462.96,
+            "end": 464.96,
+            "text": " they blame the manufacturer that it was not made"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 464.96,
+            "end": 466.96,
+            "text": " in such a way that it did not break even after falling."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 466.96,
+            "end": 468.96,
+            "text": " Okay, so I will hit enter."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 468.96,
+            "end": 470.96,
+            "text": " So here you see, it came from red color."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 470.96,
+            "end": 472.96,
+            "text": " This is called error in Python."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 472.96,
+            "end": 474.96,
+            "text": " Python is saying that I have done it with my hands."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 474.96,
+            "end": 476.96,
+            "text": " What has Python done? It has done it with its hands."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 476.96,
+            "end": 478.96,
+            "text": " Python said, I am not able to do it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 478.96,
+            "end": 480.96,
+            "text": " Now it is mine. Now you see."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 480.96,
+            "end": 482.96,
+            "text": " Python has fallen."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 482.96,
+            "end": 484.96,
+            "text": " Python has died."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 484.96,
+            "end": 486.96,
+            "text": " Python has said that I am not able to do it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 486.96,
+            "end": 488.96,
+            "text": " Now you see,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 488.96,
+            "end": 490.96,
+            "text": " it is not my thing."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 490.96,
+            "end": 492.96,
+            "text": " Consider it like this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 492.96,
+            "end": 494.96,
+            "text": " So here,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 494.96,
+            "end": 496.96,
+            "text": " most recent call file main.py"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 496.96,
+            "end": 498.96,
+            "text": " line 8 in module, it is saying,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 498.96,
+            "end": 500.96,
+            "text": " I have converted x to int."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 500.96,
+            "end": 502.96,
+            "text": " How will I convert Harry to int?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 502.96,
+            "end": 504.96,
+            "text": " What does this mean?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 504.96,
+            "end": 506.96,
+            "text": " Python has gone crazy."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 506.96,
+            "end": 508.96,
+            "text": " It fell to the ground."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 508.96,
+            "end": 510.96,
+            "text": " It fell to the ground."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 510.96,
+            "end": 512.96,
+            "text": " So here Python is saying that"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 512.96,
+            "end": 514.96,
+            "text": " this is a value error."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 514.96,
+            "end": 516.96,
+            "text": " It is not that it just falls."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 516.96,
+            "end": 518.96,
+            "text": " It tells what the problem is."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 518.96,
+            "end": 520.96,
+            "text": " So Python is saying that this is a value error."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 520.96,
+            "end": 522.96,
+            "text": " You have given invalid literal in the integer."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 522.96,
+            "end": 524.96,
+            "text": " You should have given a string in the integer."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 524.96,
+            "end": 526.96,
+            "text": " In the function, which I could have converted to the integer."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 526.96,
+            "end": 528.96,
+            "text": " What has Harry caught me?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 528.96,
+            "end": 530.96,
+            "text": " So this error came in Python."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 530.96,
+            "end": 532.96,
+            "text": " We can also display a text using"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 532.96,
+            "end": 534.96,
+            "text": " input function. This will make input function."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 534.96,
+            "end": 536.96,
+            "text": " We have seen this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 536.96,
+            "end": 538.96,
+            "text": " We can display text."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 538.96,
+            "end": 540.96,
+            "text": " And here we can convert it to float."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 540.96,
+            "end": 542.96,
+            "text": " So whenever you are"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 542.96,
+            "end": 544.96,
+            "text": " adding two numbers or doing any arithmetic"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 544.96,
+            "end": 546.96,
+            "text": " operation between them, then what you"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 546.96,
+            "end": 548.96,
+            "text": " should do is convert them to"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 548.96,
+            "end": 550.96,
+            "text": " the number you are expecting in the integer or float."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 550.96,
+            "end": 552.96,
+            "text": " So in this way,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 552.96,
+            "end": 554.96,
+            "text": " we can take input in Python programming."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 554.96,
+            "end": 556.96,
+            "text": " And now I want"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 556.96,
+            "end": 558.96,
+            "text": " you to make a program to carry out"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 558.96,
+            "end": 560.96,
+            "text": " an arithmetic operation."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 560.96,
+            "end": 562.96,
+            "text": " Do you remember what we did in exercise 1?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 562.96,
+            "end": 564.96,
+            "text": " Plus, minus, times, divide, exponential,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 564.96,
+            "end": 566.96,
+            "text": " I told you. I want you to"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 566.96,
+            "end": 568.96,
+            "text": " put all those operators here."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 568.96,
+            "end": 570.96,
+            "text": " If we are taking as a string,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 570.96,
+            "end": 572.96,
+            "text": " that is, if we are putting them directly in x and y,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 572.96,
+            "end": 574.96,
+            "text": " then what is happening?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 574.96,
+            "end": 576.96,
+            "text": " And if we are doing this thing, then what is happening?"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 576.96,
+            "end": 578.96,
+            "text": " I want you to do this."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 578.96,
+            "end": 580.96,
+            "text": " And show me."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 580.96,
+            "end": 582.96,
+            "text": " So for now, that's all in this video."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 582.96,
+            "end": 584.96,
+            "text": " If you have not accessed the playlist of Python,"
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 584.96,
+            "end": 586.96,
+            "text": " then I would like you to access it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 586.96,
+            "end": 588.96,
+            "text": " Click here and bookmark it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 588.96,
+            "end": 590.96,
+            "text": " Click here and save it."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 590.96,
+            "end": 592.96,
+            "text": " That's all for now in this video."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 592.96,
+            "end": 594.96,
+            "text": " Thank you for watching this video."
+        },
+        {
+            "Number": "10",
+            "title": "Taking User Input in Python .mp3",
+            "start": 594.96,
+            "end": 596.96,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " In 100 days of code, you guys have made a lot of noise. Everyone's tempo is very high. So today I am going to tell you how we can take user input. If you interact with a program and then it responds, then you will have a lot of fun. Do you know why games are so addictive? Because whatever input they are giving to the computer, the computer actually responds to their inputs. And then they really like this thing that we are giving input and the computer is responding. You can give this kind of input to your Python programs. I will tell you how this thing is done. How Python program is given input from your keyboard. Let's go to the computer screen and let's get started. The user input in Python programming is taken with the help of input function. Now the input function in Python programming takes a string prompt from you. That is, it asks you what input you want to give. You can put a message in it. I will show you exactly how these things work. Let's zoom out a little. Okay, I zoomed in a little too much. So I zoom out a little. I zoom in so much that it looks a little and it's fun. So it's a very simple thing. To get user input, we use the input function. What is input function? It's a very simple thing. What you have to do is that a variable is equal to input. You have to do something like this. In Python, we can take user input directly using input function. The input function gives a return value as string character. Hence, we have to pass that into the variable. Now I will tell you what it means. See, it's very simple. If I write A is equal to input, that's all I have to write. And then I write print A. So we have made this the most basic program to get input in Python. So if I write Harry here and hit enter, it will print Harry. I could have done something like this. I could have said that my name is and then I will write A. So my name is Harry will be printed and come. Because there is Harry in A. Okay, so this thing was very simple. And you guys understood. I will write Harry here first. And then my name is Harry will be written. This thing was very simple. You understood it. It's good. It's a very good thing. Okay, but what you can do is that you can also give a string in it. I can do something like this. Enter your name. I have given a colon space. So here you will write enter your name. That is, the string that I have put in the input will literally show me this. And if I write Harry here, then my name is Harry will be shown like this. This means that the input function assigns the string in the variable that the user inputs. Like if I write A is equal to input, then the string that the user is going to write will come in A. And your program waits if you have not given any string after input. And if you have given a string, then that string is shown. And after that, the program waits for you to input something from your keyboard. Okay, this is the input function. You wrote my name is A, so my name is Harry came here. So far, everyone is clear. Now what happens is that a lot of people make a program. I mean, in Python programming, I will say that this is the biggest doubt. One of the biggest doubts that people come up with. Now I will tell you what happens. People say that B is equal to input. Enter first number. Okay, I in fact make it X. Okay, I make it Y. And here I will write input second number. Okay, so the first number will come inside X. The second number will come inside Y. Now you print X plus Y. And I also got a comment. I don't know whose comment it was. But I got this comment with this problem. Now I will tell you what it was. Now see, if you print the first number 10, and if you print the second number 3, I mean, I print 100, the first number. In fact, the one above is running, so I write Harry. Now he says, give me the first number, I gave 12. I gave the second number 100. What should come? 112 should come, right? 100 and 12 are 112. But no. 12 came 100. Now you will say that what is going on? Python is broken, or it is a failure. Many people say that my Python is bad. They bring doubts like this. No, brother, first make your own mistake. I mean, what is my Python bad? My computer is bad. People start talking like this when they have doubts in programming. Yes, things can be bad. But you understand, right? Now I will tell you what is happening here. When we wrote X is equal to input, enter first number. So what happens? Whatever we have inputted in X, it comes. But there is a rule for this. What is that rule? Whatever comes in X, it comes as a string. If you have also inputted a number, then the Python input function is not intelligent enough to detect your number. Brother, you have put a number, so I should not take it as a string, but as a number. No, the Python input function says that whatever you enter, I will take it as a string. Now, if you are entering a number, then you can typecast it in int. We have read typecasting. Convert it from one data type to another data type. So, X will be a string, Y will be a string. And when a string is added in Python, we have not read the string yet, but I will tell you. When I am doing X plus Y as a string, then Python literally adds the two strings. It concatenates. That means if we add 12 and 100, if someone asks, what will happen if we add 12 and 100? Look, if there is an integer, then 112 will come. Even a fourth-grade kid knows this. And if a fourth-grade kid is watching, and if this is a string, 12 and 100, then what will happen? 12100 will be printed like this. That means these strings will be concatenated. If we add it in Harry, if we have added lovish, then Harry lovish will be printed like this. If we add Rohan in Harry, then Harry Rohan will be printed like this. As a string. Now Harry is not a number, Rohan is not a number, so adding a new number will not come. So by doing X plus Y, it is natural that we get 12100. Now you see here, if I want to take 112, then I will print it like this. I will say, look, X but as an integer, Y but as an integer, and the two of them as an integer. Now I will run the program. First, it will ask me for the name. I wrote Harry. I put 45 in the first number. And in the second number, I put 8. It will be 53. And this, which I did with print X plus Y, it is 458. It put 8 equal to 45. This is concatenation and this is actual arithmetic operation between two integers. Arithmetic operation will happen when both the integers are there. And here both the integers, you can see X and Y, both were not integers. And here we made them integers. Now I will tell you one more case. And I will tell you the solution of that in this course 100 days of code. But now I will not tell you the solution of that. And I will give you a hint. If anyone wants to see, he can see. I gave the first number 89. And I gave the second number Harry. You will say, wait a minute, Harry is not a number. I just gave it. It happens that some people are made to break. They break things, spoil things, whatever it is, whatever thing comes in their hands, phone, they drop it in their hands. If it breaks, they blame the manufacturer that it was not made in such a way that it did not break even after falling. Okay, so I will hit enter. So here you see, it came from red color. This is called error in Python. Python is saying that I have done it with my hands. What has Python done? It has done it with its hands. Python said, I am not able to do it. Now it is mine. Now you see. Python has fallen. Python has died. Python has said that I am not able to do it. Now you see, it is not my thing. Consider it like this. So here, most recent call file main.py line 8 in module, it is saying, I have converted x to int. How will I convert Harry to int? What does this mean? Python has gone crazy. It fell to the ground. It fell to the ground. So here Python is saying that this is a value error. It is not that it just falls. It tells what the problem is. So Python is saying that this is a value error. You have given invalid literal in the integer. You should have given a string in the integer. In the function, which I could have converted to the integer. What has Harry caught me? So this error came in Python. We can also display a text using input function. This will make input function. We have seen this. We can display text. And here we can convert it to float. So whenever you are adding two numbers or doing any arithmetic operation between them, then what you should do is convert them to the number you are expecting in the integer or float. So in this way, we can take input in Python programming. And now I want you to make a program to carry out an arithmetic operation. Do you remember what we did in exercise 1? Plus, minus, times, divide, exponential, I told you. I want you to put all those operators here. If we are taking as a string, that is, if we are putting them directly in x and y, then what is happening? And if we are doing this thing, then what is happening? I want you to do this. And show me. So for now, that's all in this video. If you have not accessed the playlist of Python, then I would like you to access it. Click here and bookmark it. Click here and save it. That's all for now in this video. Thank you for watching this video. And I will see you next time."
+}

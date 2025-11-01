@@ -1,0 +1,27 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Welcome to 100 Days of Code"
+    },
+    {
+        "start": 2.0,
+        "end": 4.0,
+        "text": " In 100 Days of Code we will learn"
+    },
+    {
+        "start": 4.0,
+        "end": 6.0,
+        "text": " Python Programming from 0 to Job Ready"
+    },
+    {
+        "start": 6.0,
+        "end": 8.0,
+        "text": " Means if you have given 100 days"
+    },
+    {
+        "start": 8.0,
+        "end": 10.0,
+        "text": " Dedicated 100 days"
+    }
+]

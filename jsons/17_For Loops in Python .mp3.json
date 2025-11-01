@@ -1,0 +1,3470 @@
+{
+    "chunks": [
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 0.0,
+            "end": 2.72,
+            "text": " In our life, we have to repeat some things."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 2.72,
+            "end": 5.2,
+            "text": " For example, we cook food daily."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 5.2,
+            "end": 6.92,
+            "text": " We do the same thing daily."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 6.92,
+            "end": 8.76,
+            "text": " Sometimes we have to do some work"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 8.76,
+            "end": 10.64,
+            "text": " which we do for a given client."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 10.64,
+            "end": 13.24,
+            "text": " For example, if your mom gave you a job"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 13.24,
+            "end": 16.32,
+            "text": " to fill all these bottles with water and keep them in the fridge,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 16.32,
+            "end": 18.080000000000002,
+            "text": " then you will do the same for every bottle."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 18.080000000000002,
+            "end": 20.2,
+            "text": " In programming, we have to do some work."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 20.2,
+            "end": 21.16,
+            "text": " We have to repeat it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 21.16,
+            "end": 23.32,
+            "text": " For example, keep printing every number."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 23.32,
+            "end": 25.6,
+            "text": " 1, 2, 3, 4, for all natural numbers."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 25.6,
+            "end": 27.92,
+            "text": " Or natural numbers up to 100."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 27.92,
+            "end": 30.240000000000002,
+            "text": " If you start doing print statements one by one,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 30.240000000000002,
+            "end": 31.8,
+            "text": " then your program will become very long."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 31.8,
+            "end": 35.2,
+            "text": " And you will get tired of writing print 1, print 2, print 3, print 4, print 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 35.2,
+            "end": 36.6,
+            "text": " I am tired of saying it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 36.6,
+            "end": 38.64,
+            "text": " So, you will want to use loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 38.64,
+            "end": 41.2,
+            "text": " In today's video, I will give you an introduction to loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 41.2,
+            "end": 42.760000000000005,
+            "text": " And I will tell you about for loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 42.760000000000005,
+            "end": 44.8,
+            "text": " How do for loops work in Python?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 44.8,
+            "end": 48.36,
+            "text": " This concept of looping makes Python programming very strong."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 48.36,
+            "end": 50.92,
+            "text": " And it saves a lot of programmer's time."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 50.92,
+            "end": 52.400000000000006,
+            "text": " How? Let's go to the computer screen."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 52.400000000000006,
+            "end": 53.6,
+            "text": " And I will tell you."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 57.92,
+            "end": 60.2,
+            "text": " So, this is the first time we are talking about loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 60.2,
+            "end": 60.6,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 60.6,
+            "end": 63.08,
+            "text": " And first of all, I will tell you about loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 63.08,
+            "end": 64.28,
+            "text": " What is a loop?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 64.28,
+            "end": 64.68,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 64.68,
+            "end": 66.68,
+            "text": " We will talk about other things after that."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 66.68,
+            "end": 69.88,
+            "text": " So, look, sometimes a programmer wants to execute a group of statements"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 69.88,
+            "end": 71.08,
+            "text": " a certain number of times."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 71.08,
+            "end": 71.64,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 71.64,
+            "end": 76.4,
+            "text": " Suppose I told you that I want to print numbers from 1 to 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 76.4,
+            "end": 76.92,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 76.92,
+            "end": 78.12,
+            "text": " You will say, it's simple."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 78.12,
+            "end": 80.32000000000001,
+            "text": " What a childish question, brother."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 80.32000000000001,
+            "end": 81.32000000000001,
+            "text": " Come on, man."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 81.32000000000001,
+            "end": 82.32000000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 82.32000000000001,
+            "end": 84.32000000000001,
+            "text": " You will say, print 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 84.32000000000001,
+            "end": 85.32000000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 85.32,
+            "end": 86.03999999999999,
+            "text": " Come on, man."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 86.03999999999999,
+            "end": 87.03999999999999,
+            "text": " I mean, okay."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 87.03999999999999,
+            "end": 89.6,
+            "text": " You will say, print this, print 2."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 89.6,
+            "end": 90.32,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 90.32,
+            "end": 91.6,
+            "text": " Print 3."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 91.6,
+            "end": 92.8,
+            "text": " Print 3."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 92.8,
+            "end": 93.27999999999999,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 93.27999999999999,
+            "end": 96.08,
+            "text": " In this way, you will work hard and do it up to 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 96.08,
+            "end": 96.75999999999999,
+            "text": " I am not doing it, man."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 96.75999999999999,
+            "end": 97.0,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 97.0,
+            "end": 97.8,
+            "text": " You do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 97.8,
+            "end": 99.08,
+            "text": " Suppose you have done it up to 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 99.08,
+            "end": 100.32,
+            "text": " It will take a lot of hard work."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 100.32,
+            "end": 101.44,
+            "text": " There will be a little problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 101.44,
+            "end": 103.44,
+            "text": " If I give it up to 5, there will be no problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 103.44,
+            "end": 104.47999999999999,
+            "text": " You will do it up to 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 104.47999999999999,
+            "end": 105.19999999999999,
+            "text": " It will take hard work."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 105.19999999999999,
+            "end": 106.03999999999999,
+            "text": " You will do it up to 100."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 106.03999999999999,
+            "end": 108.24,
+            "text": " I know you guys will do it too."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 108.24,
+            "end": 109.47999999999999,
+            "text": " But don't do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 109.47999999999999,
+            "end": 109.67999999999999,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 109.67999999999999,
+            "end": 110.19999999999999,
+            "text": " Wait a minute."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 110.19999999999999,
+            "end": 110.72,
+            "text": " Don't do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 110.72,
+            "end": 111.24,
+            "text": " Don't do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 111.24,
+            "end": 111.88,
+            "text": " You sit and do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 111.88,
+            "end": 112.08,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 112.08,
+            "end": 112.63999999999999,
+            "text": " Wait a minute."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 112.64,
+            "end": 113.32000000000001,
+            "text": " Listen to me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 113.32000000000001,
+            "end": 114.96,
+            "text": " I am trying to keep some point of my own."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 114.96,
+            "end": 119.2,
+            "text": " What if you are told to do it up to 20,000?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 119.2,
+            "end": 120.2,
+            "text": " What will you do then?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 120.2,
+            "end": 121.48,
+            "text": " Then there will be a problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 121.48,
+            "end": 123.12,
+            "text": " 20,000 is a big number."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 123.12,
+            "end": 123.6,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 123.6,
+            "end": 127.96000000000001,
+            "text": " If I have said up to 20,000 that you have to print 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 127.96000000000001,
+            "end": 129.84,
+            "text": " all the way up to 20,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 129.84,
+            "end": 131.76,
+            "text": " Maybe you guys will have a problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 131.76,
+            "end": 133.0,
+            "text": " And loops are useful in this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 133.0,
+            "end": 133.52,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 133.52,
+            "end": 136.76,
+            "text": " If you are a little smart, then you will use Excel."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 136.76,
+            "end": 138.64,
+            "text": " You will use the cat function in it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 138.64,
+            "end": 140.72,
+            "text": " You will use some other tool."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 140.72,
+            "end": 141.8,
+            "text": " But you know what?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 141.84,
+            "end": 144.56,
+            "text": " All these tools behind the scenes use loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 144.56,
+            "end": 145.56,
+            "text": " What is loops?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 145.56,
+            "end": 146.24,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 146.24,
+            "end": 150.12,
+            "text": " Loops basically you give a command that I need numbers from 1 to 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 150.12,
+            "end": 151.60000000000002,
+            "text": " And you get numbers from 1 to 20."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 151.60000000000002,
+            "end": 152.04000000000002,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 152.04000000000002,
+            "end": 155.64000000000001,
+            "text": " So basically you are saying that I have to repeat this thing for each number."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 155.64000000000001,
+            "end": 156.16000000000003,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 156.16000000000003,
+            "end": 157.44,
+            "text": " You understand it this way."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 157.44,
+            "end": 161.52,
+            "text": " Based on implementation, loops are classified in for loop and while loop."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 161.52,
+            "end": 163.16000000000003,
+            "text": " Mainly there are two types of loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 163.16000000000003,
+            "end": 164.4,
+            "text": " For loop and while loop."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 164.4,
+            "end": 164.88000000000002,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 164.88000000000002,
+            "end": 166.64000000000001,
+            "text": " We can also see nested loops."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 166.64000000000001,
+            "end": 169.04000000000002,
+            "text": " That is, you put while in for, you put fall in while."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 169.04000000000002,
+            "end": 170.04000000000002,
+            "text": " We can do that."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 170.07999999999998,
+            "end": 172.6,
+            "text": " We have put a while loop in it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 172.6,
+            "end": 173.95999999999998,
+            "text": " We put another for in it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 173.95999999999998,
+            "end": 174.72,
+            "text": " That will continue."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 174.72,
+            "end": 175.0,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 175.0,
+            "end": 175.76,
+            "text": " There is no tension about it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 175.76,
+            "end": 176.76,
+            "text": " We can do that."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 176.76,
+            "end": 178.76,
+            "text": " But we understand the basics of for loop."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 178.76,
+            "end": 180.32,
+            "text": " What does for loop do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 180.32,
+            "end": 183.35999999999999,
+            "text": " Can iterate over a sequence of iterable objects in Python."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 183.35999999999999,
+            "end": 184.6,
+            "text": " Now you will say, what did you say?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 184.6,
+            "end": 186.28,
+            "text": " I mean, first we talked about the sequence."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 186.28,
+            "end": 187.72,
+            "text": " Okay, I understood what a sequence is."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 187.72,
+            "end": 190.07999999999998,
+            "text": " What does iterable object in Python mean?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 190.07999999999998,
+            "end": 194.56,
+            "text": " See, there are some iterable objects in Python that we can loop."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 194.56,
+            "end": 196.32,
+            "text": " Like we can loop inside a list."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 196.32,
+            "end": 199.56,
+            "text": " We can access every element of the list one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 199.6,
+            "end": 201.08,
+            "text": " We can also loop the string."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 201.08,
+            "end": 203.52,
+            "text": " We can access every element of it one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 204.0,
+            "end": 206.28,
+            "text": " We have many more objects in Python in the same way."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 206.28,
+            "end": 208.36,
+            "text": " When we will read more data types, then I will tell you."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 208.36,
+            "end": 210.84,
+            "text": " We can access elements one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 210.84,
+            "end": 212.44,
+            "text": " Here if I write,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 212.92000000000002,
+            "end": 215.08,
+            "text": " for, let's say,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 215.08,
+            "end": 216.48000000000002,
+            "text": " I in name."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 216.48000000000002,
+            "end": 218.36,
+            "text": " In fact, I copy this program."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 218.36,
+            "end": 219.6,
+            "text": " There is no point in typing."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 219.6,
+            "end": 221.4,
+            "text": " I will copy it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 221.4,
+            "end": 223.0,
+            "text": " I wrote name is equal to Abhishek."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 223.0,
+            "end": 224.0,
+            "text": " For I in name."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 224.0,
+            "end": 225.32,
+            "text": " And I am printing I."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 225.32,
+            "end": 225.88,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 225.88,
+            "end": 228.88,
+            "text": " And I have put end is equal to so that it comes comma comma."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 228.88,
+            "end": 230.32,
+            "text": " By the way, if you are confused with this,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 230.32,
+            "end": 231.64,
+            "text": " then even if I don't put this,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 231.64,
+            "end": 233.44,
+            "text": " then I will get to see some output like this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 233.44,
+            "end": 235.44,
+            "text": " Abhishek."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 235.44,
+            "end": 237.07999999999998,
+            "text": " I will get this one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 237.07999999999998,
+            "end": 237.84,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 237.84,
+            "end": 239.16,
+            "text": " Now you guys see here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 239.16,
+            "end": 239.92,
+            "text": " What did it do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 239.92,
+            "end": 242.12,
+            "text": " It said for I in name."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 242.48,
+            "end": 244.12,
+            "text": " Every character of name."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 244.12,
+            "end": 245.24,
+            "text": " Now because name is a string,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 245.24,
+            "end": 247.8,
+            "text": " so for string it will be every character."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 247.8,
+            "end": 249.32,
+            "text": " What will happen for list?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 249.32,
+            "end": 251.44,
+            "text": " For list it will be every element."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 251.44,
+            "end": 251.76,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 251.76,
+            "end": 254.64,
+            "text": " In the same way, this thing will be different for different iterable objects."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 254.64,
+            "end": 256.28,
+            "text": " Here for I in name means"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 256.28,
+            "end": 258.76,
+            "text": " Now one by one, the value of I will go from A to K."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 258.76,
+            "end": 260.35999999999996,
+            "text": " Here the value of I is A."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 260.35999999999996,
+            "end": 261.64,
+            "text": " Here the value of I is B."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 261.64,
+            "end": 263.0,
+            "text": " Here the value of I is C."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 263.0,
+            "end": 264.44,
+            "text": " And here I."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 265.28,
+            "end": 266.23999999999995,
+            "text": " What can I do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 266.23999999999995,
+            "end": 267.71999999999997,
+            "text": " I can do anything with I."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 267.71999999999997,
+            "end": 268.0,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 268.0,
+            "end": 269.71999999999997,
+            "text": " I will fix its indent."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 269.71999999999997,
+            "end": 270.96,
+            "text": " And this is the indent."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 270.96,
+            "end": 271.76,
+            "text": " I have given space here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 271.76,
+            "end": 273.47999999999996,
+            "text": " It means I have entered in for."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 273.47999999999996,
+            "end": 275.47999999999996,
+            "text": " If I put if in it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 275.47999999999996,
+            "end": 278.52,
+            "text": " If I is equal to equal to B."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 278.52,
+            "end": 279.23999999999995,
+            "text": " Assume."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 279.23999999999995,
+            "end": 279.96,
+            "text": " I am doing something like this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 279.96,
+            "end": 281.2,
+            "text": " And I will put colon and hit enter."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 281.2,
+            "end": 282.76,
+            "text": " Automatically I came one step more inside."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 282.76,
+            "end": 283.96,
+            "text": " See, if also came inside."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 283.96,
+            "end": 285.44,
+            "text": " So I am in for."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 285.44,
+            "end": 286.68,
+            "text": " I came inside for."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 286.68,
+            "end": 288.2,
+            "text": " Now if I write print."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 288.2,
+            "end": 290.71999999999997,
+            "text": " This is something special."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 290.71999999999997,
+            "end": 292.6,
+            "text": " Assume I want to write whenever B comes."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 292.6,
+            "end": 293.64,
+            "text": " This is something special."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 293.64,
+            "end": 294.64,
+            "text": " I got to see."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 294.64,
+            "end": 297.04,
+            "text": " So here it will not be for A."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 297.04,
+            "end": 297.72,
+            "text": " After B will come."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 297.72,
+            "end": 298.6,
+            "text": " This is something special."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 298.6,
+            "end": 299.64,
+            "text": " Because this condition matched."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 299.64,
+            "end": 301.84,
+            "text": " Obviously, the program does not make much sense."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 301.84,
+            "end": 303.52,
+            "text": " I have just written a random thing here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 303.52,
+            "end": 304.44,
+            "text": " That if I is equal to B."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 304.44,
+            "end": 305.28,
+            "text": " Then print this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 305.28,
+            "end": 305.48,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 305.48,
+            "end": 306.24,
+            "text": " So it did."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 306.24,
+            "end": 306.76,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 306.76,
+            "end": 307.72,
+            "text": " You have to make sense."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 307.72,
+            "end": 308.92,
+            "text": " You have to make logic."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 308.92,
+            "end": 309.96,
+            "text": " What will the computer do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 309.96,
+            "end": 311.68,
+            "text": " It will simply do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 311.68,
+            "end": 312.44,
+            "text": " Whatever you say."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 312.44,
+            "end": 312.96,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 312.96,
+            "end": 314.72,
+            "text": " So this is for string."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 314.84000000000003,
+            "end": 317.76000000000005,
+            "text": " So this is how we can iterate the strings."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 317.76000000000005,
+            "end": 319.44000000000005,
+            "text": " What if it was a list?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 319.44000000000005,
+            "end": 321.16,
+            "text": " Now see here what is the example of a list?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 321.16,
+            "end": 322.16,
+            "text": " This is the example of a list."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 322.16,
+            "end": 323.76000000000005,
+            "text": " You see, I am commenting it a little."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 323.76000000000005,
+            "end": 324.28000000000003,
+            "text": " To God."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 324.28000000000003,
+            "end": 325.28000000000003,
+            "text": " So that you guys."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 325.28000000000003,
+            "end": 327.28000000000003,
+            "text": " Your focus stays here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 327.28000000000003,
+            "end": 329.56,
+            "text": " We want to take all the colors one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 329.56,
+            "end": 330.84000000000003,
+            "text": " I wrote for x in colors."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 330.84000000000003,
+            "end": 332.20000000000005,
+            "text": " So this string will come one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 332.20000000000005,
+            "end": 332.68,
+            "text": " This will come."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 332.68,
+            "end": 333.20000000000005,
+            "text": " Then this will come."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 333.20000000000005,
+            "end": 333.8,
+            "text": " Then this will come."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 333.8,
+            "end": 334.8,
+            "text": " In the value of x."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 334.8,
+            "end": 337.16,
+            "text": " And in fact, we will make our program a little more readable."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 337.16,
+            "end": 338.52000000000004,
+            "text": " So we will write color in colors."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 338.52000000000004,
+            "end": 340.72,
+            "text": " Whatever variable you are using above."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 340.72,
+            "end": 342.72,
+            "text": " You will have to use the same variable here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 342.72,
+            "end": 344.20000000000005,
+            "text": " You will get this color here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 344.20000000000005,
+            "end": 344.92,
+            "text": " In the for loop."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 344.92,
+            "end": 345.92,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 345.92,
+            "end": 346.92,
+            "text": " Now if I run it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 346.92,
+            "end": 347.92,
+            "text": " So it is obvious."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 347.92,
+            "end": 350.12,
+            "text": " I will get to see red, green, blue and yellow."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 350.12,
+            "end": 350.72,
+            "text": " In the output."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 350.72,
+            "end": 351.72,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 351.72,
+            "end": 353.72,
+            "text": " This was a very straightforward thing."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 353.72,
+            "end": 356.72,
+            "text": " But I can do anything inside with this color."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 356.72,
+            "end": 359.40000000000003,
+            "text": " Maybe I want to iterate the color too."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 359.40000000000003,
+            "end": 359.92,
+            "text": " Do you understand?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 359.92,
+            "end": 361.28000000000003,
+            "text": " Like red's red."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 361.28000000000003,
+            "end": 362.56,
+            "text": " Because now the color is a string."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 362.56,
+            "end": 363.56,
+            "text": " This was a list."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 363.56,
+            "end": 365.28000000000003,
+            "text": " Which had a lot of strings inside."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 365.28000000000003,
+            "end": 366.84000000000003,
+            "text": " Now I say here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 367.72,
+            "end": 369.52000000000004,
+            "text": " I will fix its indent."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 369.52000000000004,
+            "end": 371.04,
+            "text": " Now indentation is in your hand."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 371.04,
+            "end": 373.04,
+            "text": " Now see I have indented it from one space here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 373.04,
+            "end": 374.64000000000004,
+            "text": " I have indented it from a tab."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 374.64000000000004,
+            "end": 375.36,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 375.36,
+            "end": 377.16,
+            "text": " If I want, I can indent it from one space."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 377.16,
+            "end": 377.96000000000004,
+            "text": " It will be my choice."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 377.96000000000004,
+            "end": 378.56,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 378.56,
+            "end": 379.56,
+            "text": " Now look here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 379.56,
+            "end": 380.92,
+            "text": " I wrote print color."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 380.92,
+            "end": 383.92,
+            "text": " And after that I wrote."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 383.92,
+            "end": 386.04,
+            "text": " For i in color."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 386.04,
+            "end": 386.96000000000004,
+            "text": " And I will write here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 386.96000000000004,
+            "end": 388.56,
+            "text": " If print i."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 388.56,
+            "end": 390.24,
+            "text": " So what will happen is that one by one."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 390.24,
+            "end": 391.64000000000004,
+            "text": " I will get all these values."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 391.64000000000004,
+            "end": 392.24,
+            "text": " R, E, D."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 392.24,
+            "end": 393.32000000000005,
+            "text": " Just keep one thing in mind."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 393.32000000000005,
+            "end": 394.92,
+            "text": " Take this value and this value separately."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 394.92,
+            "end": 395.52000000000004,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 395.52000000000004,
+            "end": 396.24,
+            "text": " If you have taken this color."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 396.24,
+            "end": 397.24,
+            "text": " Then take this i."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 397.24,
+            "end": 398.12,
+            "text": " Or take care."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 398.12,
+            "end": 399.44,
+            "text": " And use carry inside too."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 399.44,
+            "end": 400.36,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 400.36,
+            "end": 401.36,
+            "text": " If I run this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 401.36,
+            "end": 402.76,
+            "text": " First red print."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 402.76,
+            "end": 403.36,
+            "text": " Then red."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 403.36,
+            "end": 404.04,
+            "text": " Then green."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 404.04,
+            "end": 405.04,
+            "text": " Then green."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 405.04,
+            "end": 405.56,
+            "text": " Blue."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 405.56,
+            "end": 406.36,
+            "text": " B, L, U, E."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 406.36,
+            "end": 407.08000000000004,
+            "text": " Yellow."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 407.08000000000004,
+            "end": 408.64,
+            "text": " Y, E, L, L, O, W."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 408.64,
+            "end": 410.84000000000003,
+            "text": " So in this way you can iterate a list."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 410.84000000000003,
+            "end": 411.96000000000004,
+            "text": " If this was tuple."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 411.96000000000004,
+            "end": 413.36,
+            "text": " If there were additional keys."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 413.36,
+            "end": 415.2,
+            "text": " We have a lot of other iterable objects."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 415.2,
+            "end": 416.84000000000003,
+            "text": " About which we will talk later."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 416.84000000000003,
+            "end": 418.84000000000003,
+            "text": " We will use for loop a lot."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 418.84000000000003,
+            "end": 421.56,
+            "text": " In fact, I will say any big project."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 421.56,
+            "end": 422.92,
+            "text": " For loop is definitely used."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 422.92,
+            "end": 424.56,
+            "text": " And yes, for loop is used."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 424.56,
+            "end": 425.64,
+            "text": " While is also used."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 425.64,
+            "end": 427.12,
+            "text": " For is used a little more."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 427.12,
+            "end": 428.12,
+            "text": " I want to tell you this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 428.12,
+            "end": 429.48,
+            "text": " From my programming experience."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 429.48,
+            "end": 430.08000000000004,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 430.76,
+            "end": 431.76,
+            "text": " Okay, great."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 431.76,
+            "end": 433.56,
+            "text": " Now let's talk about range."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 433.56,
+            "end": 434.56,
+            "text": " What is range?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 434.56,
+            "end": 436.56,
+            "text": " Do you remember I told you 20,000?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 436.56,
+            "end": 437.36,
+            "text": " 20,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 437.36,
+            "end": 438.56,
+            "text": " Okay, remember that question."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 438.56,
+            "end": 439.96000000000004,
+            "text": " You will say, okay, fine."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 439.96000000000004,
+            "end": 441.56,
+            "text": " You have printed Abhishek."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 441.56,
+            "end": 443.56,
+            "text": " You have printed the colors inside the list."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 443.56,
+            "end": 445.76,
+            "text": " How will that 20,000 question be printed?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 445.76,
+            "end": 448.96000000000004,
+            "text": " In which we had to print characters up to 20,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 448.96000000000004,
+            "end": 450.36,
+            "text": " Print the numbers."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 450.36,
+            "end": 450.76,
+            "text": " Sorry."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 450.76,
+            "end": 451.76,
+            "text": " How will that happen?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 451.76,
+            "end": 453.36,
+            "text": " Let's talk about it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 453.36,
+            "end": 454.76,
+            "text": " That will be with range function."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 454.76,
+            "end": 457.16,
+            "text": " Before 20,000 I would like to print."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 457.16,
+            "end": 457.96000000000004,
+            "text": " Up to 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 457.96000000000004,
+            "end": 458.36,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 458.44,
+            "end": 459.64,
+            "text": " So what does range function do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 459.64,
+            "end": 461.84000000000003,
+            "text": " I can write something like this here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 461.84000000000003,
+            "end": 464.64,
+            "text": " That for k in range."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 464.64,
+            "end": 467.24,
+            "text": " I wrote here for k in range 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 467.24,
+            "end": 469.04,
+            "text": " It means it will go from 0 to 4."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 469.04,
+            "end": 471.64,
+            "text": " Range 5 means it will go from 0 to 4."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 471.64,
+            "end": 474.04,
+            "text": " Range 7 means it will go from 0 to 6."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 474.04,
+            "end": 475.04,
+            "text": " So remember this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 475.04,
+            "end": 477.04,
+            "text": " If I run this, it will go from 0 to 4."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 477.04,
+            "end": 479.64,
+            "text": " By doing this, I will get the value of k from 0 to 4."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 479.64,
+            "end": 482.04,
+            "text": " But I want to print from 1 to 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 482.04,
+            "end": 484.04,
+            "text": " No problem, you print k plus 1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 485.44,
+            "end": 486.64,
+            "text": " Print k plus 1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 486.64,
+            "end": 487.64,
+            "text": " You have no problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 487.71999999999997,
+            "end": 489.32,
+            "text": " You will get from 1 to 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 489.32,
+            "end": 489.91999999999996,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 489.91999999999996,
+            "end": 491.52,
+            "text": " So it depends on your use case."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 491.52,
+            "end": 492.91999999999996,
+            "text": " There is no big rocket science."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 492.91999999999996,
+            "end": 495.12,
+            "text": " You can easily print plus 1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 495.12,
+            "end": 498.32,
+            "text": " If you want from 2 to 6, then print plus 2 here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 498.91999999999996,
+            "end": 500.12,
+            "text": " But not only this,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 500.12,
+            "end": 504.91999999999996,
+            "text": " You can also give your arguments in range function."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 504.91999999999996,
+            "end": 507.12,
+            "text": " You can tell where to start and where to end."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 507.12,
+            "end": 509.91999999999996,
+            "text": " I want to start from 1 and end up to 9."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 509.91999999999996,
+            "end": 510.52,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 510.52,
+            "end": 512.12,
+            "text": " So it will go from 1 to 8."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 512.92,
+            "end": 513.72,
+            "text": " It will not go up to 9."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 513.72,
+            "end": 514.92,
+            "text": " Remember this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 514.92,
+            "end": 516.3199999999999,
+            "text": " This is very important."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 516.4000000000001,
+            "end": 519.4000000000001,
+            "text": " It is going from 1 to 9."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 519.4000000000001,
+            "end": 520.8000000000001,
+            "text": " Because I have written k plus 1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 520.8000000000001,
+            "end": 521.6,
+            "text": " I am also confused."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 521.6,
+            "end": 522.8000000000001,
+            "text": " I said, what happened?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 523.6,
+            "end": 524.2,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 524.2,
+            "end": 526.4000000000001,
+            "text": " So the value of k will go from 1 to 8."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 526.4000000000001,
+            "end": 527.0,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 527.0,
+            "end": 529.2,
+            "text": " If you print k plus 1, k plus 2,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 529.2,
+            "end": 532.0,
+            "text": " then obviously its value will increase for every value."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 532.0,
+            "end": 536.0,
+            "text": " And you will get to see what you have printed from 2 to 10."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 536.0,
+            "end": 536.6,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 536.6,
+            "end": 541.0,
+            "text": " So in this way, you can print numbers between two numbers."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 541.0,
+            "end": 542.8000000000001,
+            "text": " I told you from 1 to 20,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 542.8000000000001,
+            "end": 545.8000000000001,
+            "text": " So I will write 20,000 here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 545.88,
+            "end": 546.28,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 546.28,
+            "end": 548.28,
+            "text": " I don't know, this program will become too big."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 548.28,
+            "end": 550.88,
+            "text": " But still, wish me luck."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 550.88,
+            "end": 551.68,
+            "text": " I am running it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 551.68,
+            "end": 551.88,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 551.88,
+            "end": 554.4799999999999,
+            "text": " It will print from 1 to 2,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 554.4799999999999,
+            "end": 555.68,
+            "text": " 20,000, sorry."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 555.68,
+            "end": 556.68,
+            "text": " And it's done."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 556.68,
+            "end": 557.4799999999999,
+            "text": " Can you see?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 557.4799999999999,
+            "end": 559.0799999999999,
+            "text": " It has printed from 1 to 20,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 559.0799999999999,
+            "end": 561.4799999999999,
+            "text": " Just think, if a person starts typing,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 561.4799999999999,
+            "end": 563.0799999999999,
+            "text": " by printing 1 and 2,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 563.0799999999999,
+            "end": 565.28,
+            "text": " then how much time will it take?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 565.28,
+            "end": 566.88,
+            "text": " Now one more thing I would like to tell you."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 566.88,
+            "end": 569.0799999999999,
+            "text": " See, the console is cleared here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 569.0799999999999,
+            "end": 570.88,
+            "text": " Around 18,900."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 570.88,
+            "end": 571.28,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 571.28,
+            "end": 572.4799999999999,
+            "text": " So the console is cleared."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 572.4799999999999,
+            "end": 573.68,
+            "text": " But our program worked."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 573.68,
+            "end": 574.88,
+            "text": " I just wanted to tell you this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 574.88,
+            "end": 575.4799999999999,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 575.5600000000001,
+            "end": 576.5600000000001,
+            "text": " In case you are wondering,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 576.5600000000001,
+            "end": 578.5600000000001,
+            "text": " why is it starting from 18,663?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 578.5600000000001,
+            "end": 579.96,
+            "text": " It actually started from 1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 579.96,
+            "end": 582.5600000000001,
+            "text": " But our console kept clearing."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 582.5600000000001,
+            "end": 583.76,
+            "text": " If you want to see this thing,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 583.76,
+            "end": 584.5600000000001,
+            "text": " then run it again."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 584.5600000000001,
+            "end": 585.96,
+            "text": " And you will get to see it from 1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 585.96,
+            "end": 588.36,
+            "text": " And then the console will keep clearing."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 588.36,
+            "end": 589.96,
+            "text": " See, it went from 1, 2, 3, 4, 5, 6."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 589.96,
+            "end": 592.36,
+            "text": " All the way till 20,000."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 592.36,
+            "end": 595.36,
+            "text": " 20,000 did not print because it goes to n-1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 595.36,
+            "end": 598.16,
+            "text": " If it is written range 1 to n, then it goes to n-1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 598.16,
+            "end": 598.5600000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 599.5600000000001,
+            "end": 600.76,
+            "text": " I hope it is clear."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 600.76,
+            "end": 601.5600000000001,
+            "text": " There is no problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 601.5600000000001,
+            "end": 602.76,
+            "text": " So understand something like this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 602.76,
+            "end": 604.5600000000001,
+            "text": " When we run the range function,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 604.64,
+            "end": 606.04,
+            "text": " with just one argument,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 606.04,
+            "end": 608.4399999999999,
+            "text": " then automatically Python will do this."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 608.4399999999999,
+            "end": 609.2399999999999,
+            "text": " 0 to 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 609.2399999999999,
+            "end": 609.64,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 609.64,
+            "end": 611.2399999999999,
+            "text": " This is just for your convenience."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 611.2399999999999,
+            "end": 611.64,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 611.64,
+            "end": 614.8399999999999,
+            "text": " Now see, there are three parameters in the range function."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 614.8399999999999,
+            "end": 615.64,
+            "text": " There is a start,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 615.64,
+            "end": 616.8399999999999,
+            "text": " there is a stop,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 616.8399999999999,
+            "end": 617.8399999999999,
+            "text": " and there is a step."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 617.8399999999999,
+            "end": 618.4399999999999,
+            "text": " Step."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 618.4399999999999,
+            "end": 619.4399999999999,
+            "text": " What does the step do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 619.4399999999999,
+            "end": 621.4399999999999,
+            "text": " You have to explore the step."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 621.4399999999999,
+            "end": 622.8399999999999,
+            "text": " In fact, I have given a quick quiz here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 622.8399999999999,
+            "end": 624.04,
+            "text": " What is the step argument?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 624.04,
+            "end": 625.4399999999999,
+            "text": " You have to explore it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 625.4399999999999,
+            "end": 625.8399999999999,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 625.8399999999999,
+            "end": 626.8399999999999,
+            "text": " What will it do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 626.8399999999999,
+            "end": 631.2399999999999,
+            "text": " It will omit some values."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 631.2399999999999,
+            "end": 631.8399999999999,
+            "text": " How will it do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 631.8399999999999,
+            "end": 633.2399999999999,
+            "text": " You see it through trial and error."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 633.2399999999999,
+            "end": 634.4399999999999,
+            "text": " Otherwise, search on the internet."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 634.5200000000001,
+            "end": 634.9200000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 634.9200000000001,
+            "end": 635.9200000000001,
+            "text": " It is a very simple thing."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 635.9200000000001,
+            "end": 638.32,
+            "text": " Because I want you to learn to explore it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 638.32,
+            "end": 638.9200000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 638.9200000000001,
+            "end": 642.72,
+            "text": " So when we are running the range function with one parameter,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 642.72,
+            "end": 645.12,
+            "text": " then automatically Python will make it 0 to 5."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 645.12,
+            "end": 645.5200000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 645.5200000000001,
+            "end": 646.9200000000001,
+            "text": " If we are running with 2,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 646.9200000000001,
+            "end": 649.9200000000001,
+            "text": " then Python will start from 1 and it will go to n-1."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 649.9200000000001,
+            "end": 650.5200000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 650.5200000000001,
+            "end": 652.9200000000001,
+            "text": " And after this, if we are putting three arguments,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 652.9200000000001,
+            "end": 654.32,
+            "text": " then you tell me what it will do."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 654.32,
+            "end": 656.12,
+            "text": " If we are running with x, y, z,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 656.12,
+            "end": 657.5200000000001,
+            "text": " then what will it do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 657.5200000000001,
+            "end": 657.9200000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 657.9200000000001,
+            "end": 659.9200000000001,
+            "text": " In fact, I will run a random program."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 659.9200000000001,
+            "end": 661.12,
+            "text": " Whenever I want to explore,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 661.12,
+            "end": 662.72,
+            "text": " I run a random program."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 662.72,
+            "end": 663.72,
+            "text": " So what will I do here?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 663.8000000000001,
+            "end": 664.8000000000001,
+            "text": " I will run it till 12."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 664.8000000000001,
+            "end": 666.4,
+            "text": " And I will write 1 here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 666.4,
+            "end": 667.4,
+            "text": " Or I will write 2 here."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 667.4,
+            "end": 668.0,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 668.0,
+            "end": 669.0,
+            "text": " And I will run it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 669.8000000000001,
+            "end": 670.6,
+            "text": " When I run it,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 670.6,
+            "end": 671.8000000000001,
+            "text": " in fact, I had to comment it out."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 671.8000000000001,
+            "end": 672.2,
+            "text": " Oh God!"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 672.2,
+            "end": 673.4,
+            "text": " Why didn't I comment it out?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 674.0,
+            "end": 675.0,
+            "text": " No problem."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 675.0,
+            "end": 677.6,
+            "text": " Now see 1, 3, 5, 7, 9, 11."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 677.6,
+            "end": 678.8000000000001,
+            "text": " What if I make it 3?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 679.6,
+            "end": 682.0,
+            "text": " If I had to comment it out,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 683.4,
+            "end": 684.6,
+            "text": " now I will run it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 685.4,
+            "end": 685.8000000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 685.8000000000001,
+            "end": 687.4,
+            "text": " You see, I commented it out."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 687.4,
+            "end": 689.0,
+            "text": " 1, 4, 7, 10."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 689.0,
+            "end": 690.0,
+            "text": " Are you understanding?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 690.0,
+            "end": 691.0,
+            "text": " Are you understanding?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 691.0,
+            "end": 691.8000000000001,
+            "text": " Are you understanding?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 691.8000000000001,
+            "end": 692.6,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 692.6800000000001,
+            "end": 693.88,
+            "text": " 1, 4, 7, 10."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 694.6800000000001,
+            "end": 696.48,
+            "text": " Now you tell me yourself what is this?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 696.48,
+            "end": 697.6800000000001,
+            "text": " I mean, it was for 2,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 697.6800000000001,
+            "end": 699.08,
+            "text": " 1, 3, 5, 7."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 699.08,
+            "end": 700.28,
+            "text": " Now 1, 4, 7,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 700.28,
+            "end": 701.28,
+            "text": " what is this?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 701.28,
+            "end": 702.08,
+            "text": " Now you tell me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 702.08,
+            "end": 702.6800000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 702.6800000000001,
+            "end": 703.88,
+            "text": " Now you have to tell me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 703.88,
+            "end": 704.08,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 704.08,
+            "end": 705.08,
+            "text": " Now you see it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 705.08,
+            "end": 705.88,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 705.88,
+            "end": 706.48,
+            "text": " What does it do?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 706.48,
+            "end": 707.28,
+            "text": " Tell me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 707.28,
+            "end": 707.88,
+            "text": " Where will you tell me?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 707.88,
+            "end": 709.28,
+            "text": " You will tell me on Instagram."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 709.6800000000001,
+            "end": 711.28,
+            "text": " You will tag me on Code with Addy."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 711.28,
+            "end": 711.6800000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 711.6800000000001,
+            "end": 712.08,
+            "text": " At the rate,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 712.08,
+            "end": 714.08,
+            "text": " you will put a story on Code with Addy"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 714.08,
+            "end": 714.88,
+            "text": " and tag me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 714.88,
+            "end": 715.48,
+            "text": " And you will tell me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 715.48,
+            "end": 715.6800000000001,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 715.6800000000001,
+            "end": 716.48,
+            "text": " This is a task."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 716.48,
+            "end": 717.28,
+            "text": " You will have to do it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 717.28,
+            "end": 717.48,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 717.48,
+            "end": 718.28,
+            "text": " I don't know."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 719.08,
+            "end": 720.48,
+            "text": " So you have to do this quick quiz."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 720.48,
+            "end": 722.28,
+            "text": " Explore about the parameter of range."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 722.36,
+            "end": 723.9599999999999,
+            "text": " And I want the answer on Instagram."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 723.9599999999999,
+            "end": 724.56,
+            "text": " And I have to give it to everyone."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 724.56,
+            "end": 724.9599999999999,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 725.76,
+            "end": 726.56,
+            "text": " Code with Addy."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 726.56,
+            "end": 727.56,
+            "text": " Instagram handle."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 727.56,
+            "end": 727.9599999999999,
+            "text": " Okay?"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 727.9599999999999,
+            "end": 729.56,
+            "text": " You tag me there."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 729.56,
+            "end": 731.76,
+            "text": " And tell me that you solved it."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 731.76,
+            "end": 732.76,
+            "text": " You will explain it to me."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 732.76,
+            "end": 733.76,
+            "text": " You won't say it correctly."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 733.76,
+            "end": 735.16,
+            "text": " That brother, 1, 4, 7, 10 comes."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 735.16,
+            "end": 736.16,
+            "text": " If you do 3, then this happens."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 736.56,
+            "end": 737.56,
+            "text": " You will explain it correctly."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 737.56,
+            "end": 740.16,
+            "text": " And you have to explain it in the least words."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 740.16,
+            "end": 741.36,
+            "text": " This is also an art."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 741.36,
+            "end": 742.9599999999999,
+            "text": " Explain in the least words."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 742.9599999999999,
+            "end": 744.36,
+            "text": " I hope you understood."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 744.36,
+            "end": 746.76,
+            "text": " And I hope you will tag me on Instagram."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 746.76,
+            "end": 748.76,
+            "text": " After solving this question."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 748.76,
+            "end": 750.9599999999999,
+            "text": " If you have not accessed the playlist yet,"
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 751.0400000000001,
+            "end": 753.0400000000001,
+            "text": " Then do access the playlist."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 753.0400000000001,
+            "end": 755.0400000000001,
+            "text": " Because all the videos are going to be added in this playlist."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 755.0400000000001,
+            "end": 756.0400000000001,
+            "text": " Of the future."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 756.0400000000001,
+            "end": 757.0400000000001,
+            "text": " That's all for this video for now."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 757.0400000000001,
+            "end": 759.0400000000001,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "Number": "17",
+            "title": "For Loops in Python .mp3",
+            "start": 759.0400000000001,
+            "end": 762.0400000000001,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " In our life, we have to repeat some things. For example, we cook food daily. We do the same thing daily. Sometimes we have to do some work which we do for a given client. For example, if your mom gave you a job to fill all these bottles with water and keep them in the fridge, then you will do the same for every bottle. In programming, we have to do some work. We have to repeat it. For example, keep printing every number. 1, 2, 3, 4, for all natural numbers. Or natural numbers up to 100. If you start doing print statements one by one, then your program will become very long. And you will get tired of writing print 1, print 2, print 3, print 4, print 5. I am tired of saying it. So, you will want to use loops. In today's video, I will give you an introduction to loops. And I will tell you about for loops. How do for loops work in Python? This concept of looping makes Python programming very strong. And it saves a lot of programmer's time. How? Let's go to the computer screen. And I will tell you. So, this is the first time we are talking about loops. Okay? And first of all, I will tell you about loops. What is a loop? Okay? We will talk about other things after that. So, look, sometimes a programmer wants to execute a group of statements a certain number of times. Okay? Suppose I told you that I want to print numbers from 1 to 20. Okay? You will say, it's simple. What a childish question, brother. Come on, man. Okay? You will say, print 20. Okay? Come on, man. I mean, okay. You will say, print this, print 2. Okay? Print 3. Print 3. Okay? In this way, you will work hard and do it up to 20. I am not doing it, man. Okay? You do it. Suppose you have done it up to 20. It will take a lot of hard work. There will be a little problem. If I give it up to 5, there will be no problem. You will do it up to 20. It will take hard work. You will do it up to 100. I know you guys will do it too. But don't do it. Okay? Wait a minute. Don't do it. Don't do it. You sit and do it. Okay? Wait a minute. Listen to me. I am trying to keep some point of my own. What if you are told to do it up to 20,000? What will you do then? Then there will be a problem. 20,000 is a big number. Okay? If I have said up to 20,000 that you have to print 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, all the way up to 20,000. Maybe you guys will have a problem. And loops are useful in this. Okay? If you are a little smart, then you will use Excel. You will use the cat function in it. You will use some other tool. But you know what? All these tools behind the scenes use loops. What is loops? Okay? Loops basically you give a command that I need numbers from 1 to 20. And you get numbers from 1 to 20. Okay? So basically you are saying that I have to repeat this thing for each number. Okay? You understand it this way. Based on implementation, loops are classified in for loop and while loop. Mainly there are two types of loops. For loop and while loop. Okay? We can also see nested loops. That is, you put while in for, you put fall in while. We can do that. We have put a while loop in it. We put another for in it. That will continue. Okay? There is no tension about it. We can do that. But we understand the basics of for loop. What does for loop do? Can iterate over a sequence of iterable objects in Python. Now you will say, what did you say? I mean, first we talked about the sequence. Okay, I understood what a sequence is. What does iterable object in Python mean? See, there are some iterable objects in Python that we can loop. Like we can loop inside a list. We can access every element of the list one by one. We can also loop the string. We can access every element of it one by one. We have many more objects in Python in the same way. When we will read more data types, then I will tell you. We can access elements one by one. Here if I write, for, let's say, I in name. In fact, I copy this program. There is no point in typing. I will copy it. I wrote name is equal to Abhishek. For I in name. And I am printing I. Okay? And I have put end is equal to so that it comes comma comma. By the way, if you are confused with this, then even if I don't put this, then I will get to see some output like this. Abhishek. I will get this one by one. Okay? Now you guys see here. What did it do? It said for I in name. Every character of name. Now because name is a string, so for string it will be every character. What will happen for list? For list it will be every element. Okay? In the same way, this thing will be different for different iterable objects. Here for I in name means Now one by one, the value of I will go from A to K. Here the value of I is A. Here the value of I is B. Here the value of I is C. And here I. What can I do? I can do anything with I. Okay? I will fix its indent. And this is the indent. I have given space here. It means I have entered in for. If I put if in it. If I is equal to equal to B. Assume. I am doing something like this. And I will put colon and hit enter. Automatically I came one step more inside. See, if also came inside. So I am in for. I came inside for. Now if I write print. This is something special. Assume I want to write whenever B comes. This is something special. I got to see. So here it will not be for A. After B will come. This is something special. Because this condition matched. Obviously, the program does not make much sense. I have just written a random thing here. That if I is equal to B. Then print this. Okay? So it did. Okay? You have to make sense. You have to make logic. What will the computer do? It will simply do it. Whatever you say. Okay? So this is for string. So this is how we can iterate the strings. What if it was a list? Now see here what is the example of a list? This is the example of a list. You see, I am commenting it a little. To God. So that you guys. Your focus stays here. We want to take all the colors one by one. I wrote for x in colors. So this string will come one by one. This will come. Then this will come. Then this will come. In the value of x. And in fact, we will make our program a little more readable. So we will write color in colors. Whatever variable you are using above. You will have to use the same variable here. You will get this color here. In the for loop. Okay? Now if I run it. So it is obvious. I will get to see red, green, blue and yellow. In the output. Okay? This was a very straightforward thing. But I can do anything inside with this color. Maybe I want to iterate the color too. Do you understand? Like red's red. Because now the color is a string. This was a list. Which had a lot of strings inside. Now I say here. I will fix its indent. Now indentation is in your hand. Now see I have indented it from one space here. I have indented it from a tab. Okay? If I want, I can indent it from one space. It will be my choice. Okay? Now look here. I wrote print color. And after that I wrote. For i in color. And I will write here. If print i. So what will happen is that one by one. I will get all these values. R, E, D. Just keep one thing in mind. Take this value and this value separately. Okay? If you have taken this color. Then take this i. Or take care. And use carry inside too. Okay? If I run this. First red print. Then red. Then green. Then green. Blue. B, L, U, E. Yellow. Y, E, L, L, O, W. So in this way you can iterate a list. If this was tuple. If there were additional keys. We have a lot of other iterable objects. About which we will talk later. We will use for loop a lot. In fact, I will say any big project. For loop is definitely used. And yes, for loop is used. While is also used. For is used a little more. I want to tell you this. From my programming experience. Okay? Okay, great. Now let's talk about range. What is range? Do you remember I told you 20,000? 20,000. Okay, remember that question. You will say, okay, fine. You have printed Abhishek. You have printed the colors inside the list. How will that 20,000 question be printed? In which we had to print characters up to 20,000. Print the numbers. Sorry. How will that happen? Let's talk about it. That will be with range function. Before 20,000 I would like to print. Up to 5. Okay? So what does range function do? I can write something like this here. That for k in range. I wrote here for k in range 5. It means it will go from 0 to 4. Range 5 means it will go from 0 to 4. Range 7 means it will go from 0 to 6. So remember this. If I run this, it will go from 0 to 4. By doing this, I will get the value of k from 0 to 4. But I want to print from 1 to 5. No problem, you print k plus 1. Print k plus 1. You have no problem. You will get from 1 to 5. Okay? So it depends on your use case. There is no big rocket science. You can easily print plus 1. If you want from 2 to 6, then print plus 2 here. But not only this, You can also give your arguments in range function. You can tell where to start and where to end. I want to start from 1 and end up to 9. Okay? So it will go from 1 to 8. It will not go up to 9. Remember this. This is very important. It is going from 1 to 9. Because I have written k plus 1. I am also confused. I said, what happened? Okay? So the value of k will go from 1 to 8. Okay? If you print k plus 1, k plus 2, then obviously its value will increase for every value. And you will get to see what you have printed from 2 to 10. Okay? So in this way, you can print numbers between two numbers. I told you from 1 to 20,000. So I will write 20,000 here. Okay? I don't know, this program will become too big. But still, wish me luck. I am running it. Okay? It will print from 1 to 2,000. 20,000, sorry. And it's done. Can you see? It has printed from 1 to 20,000. Just think, if a person starts typing, by printing 1 and 2, then how much time will it take? Now one more thing I would like to tell you. See, the console is cleared here. Around 18,900. Okay? So the console is cleared. But our program worked. I just wanted to tell you this. Okay? In case you are wondering, why is it starting from 18,663? It actually started from 1. But our console kept clearing. If you want to see this thing, then run it again. And you will get to see it from 1. And then the console will keep clearing. See, it went from 1, 2, 3, 4, 5, 6. All the way till 20,000. 20,000 did not print because it goes to n-1. If it is written range 1 to n, then it goes to n-1. Okay? I hope it is clear. There is no problem. So understand something like this. When we run the range function, with just one argument, then automatically Python will do this. 0 to 5. Okay? This is just for your convenience. Okay? Now see, there are three parameters in the range function. There is a start, there is a stop, and there is a step. Step. What does the step do? You have to explore the step. In fact, I have given a quick quiz here. What is the step argument? You have to explore it. Okay? What will it do? It will omit some values. How will it do? You see it through trial and error. Otherwise, search on the internet. Okay? It is a very simple thing. Because I want you to learn to explore it. Okay? So when we are running the range function with one parameter, then automatically Python will make it 0 to 5. Okay? If we are running with 2, then Python will start from 1 and it will go to n-1. Okay? And after this, if we are putting three arguments, then you tell me what it will do. If we are running with x, y, z, then what will it do? Okay? In fact, I will run a random program. Whenever I want to explore, I run a random program. So what will I do here? I will run it till 12. And I will write 1 here. Or I will write 2 here. Okay? And I will run it. When I run it, in fact, I had to comment it out. Oh God! Why didn't I comment it out? No problem. Now see 1, 3, 5, 7, 9, 11. What if I make it 3? If I had to comment it out, now I will run it. Okay? You see, I commented it out. 1, 4, 7, 10. Are you understanding? Are you understanding? Are you understanding? Okay? 1, 4, 7, 10. Now you tell me yourself what is this? I mean, it was for 2, 1, 3, 5, 7. Now 1, 4, 7, what is this? Now you tell me. Okay? Now you have to tell me. Okay? Now you see it. Okay? What does it do? Tell me. Where will you tell me? You will tell me on Instagram. You will tag me on Code with Addy. Okay? At the rate, you will put a story on Code with Addy and tag me. And you will tell me. Okay? This is a task. You will have to do it. Okay? I don't know. So you have to do this quick quiz. Explore about the parameter of range. And I want the answer on Instagram. And I have to give it to everyone. Okay? Code with Addy. Instagram handle. Okay? You tag me there. And tell me that you solved it. You will explain it to me. You won't say it correctly. That brother, 1, 4, 7, 10 comes. If you do 3, then this happens. You will explain it correctly. And you have to explain it in the least words. This is also an art. Explain in the least words. I hope you understood. And I hope you will tag me on Instagram. After solving this question. If you have not accessed the playlist yet, Then do access the playlist. Because all the videos are going to be added in this playlist. Of the future. That's all for this video for now. Thank you so much for watching this video. And I will see you next time."
+}
